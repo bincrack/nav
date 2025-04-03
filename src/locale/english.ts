@@ -231,7 +231,7 @@ const english: Record<string, any> = {
   _docTitle: 'Document title',
   _importEnter: `Enter in browser <a href="chrome://bookmarks/" target="_blank">chrome://bookmarks/</a> Find the export bookmark, export the HTML file, click import below`,
   _buildSuccess: 'Build succeed',
-  _bindDomain: `Bind domain names, multiple separated by commas, without including protocols such as "example.com,xjh22222228.github.io"`,
+  _bindDomain: `Bind domain names, multiple separated by commas, without including protocols such as "example.com"`,
   _clickExport: 'Click on me to export',
   _exportIcons: 'Simultaneously exporting website icons takes a long time',
   _errorIcons: 'The following icons cannot be processed properly:',
