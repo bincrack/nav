@@ -24,8 +24,7 @@
     "lightCardStyle": "poster",
     "lightOverType": "overflow",
     "lightFooterHTML": "",
-    "simThemeImages": [
-    ],
+    "simThemeImages": [],
     "simThemeDesc": "这里收录多达 <b>${total}</b> 个优质网站， 助您工作、学习和生活",
     "simCardStyle": "original",
     "simOverType": "overflow",
@@ -48,14 +47,12 @@
     "sideThemeHeight": 200,
     "sideThemeAutoplay": true,
     "sideCollapsed": false,
-    "sideThemeImages": [
-    ],
+    "sideThemeImages": [],
     "shortcutTitle": "",
     "shortcutDocTitle": "",
     "shortcutDockCount": 6,
     "shortcutThemeShowWeather": true,
-    "shortcutThemeImages": [
-    ],
+    "shortcutThemeImages": [],
     "checkUrl": false,
     "spiderIcon": "NO",
     "spiderDescription": "NO",
