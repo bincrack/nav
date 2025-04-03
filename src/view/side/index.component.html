@@ -23,13 +23,19 @@
         nzMode="inline"
         class="sider dark-scrollbar dark-bg select-none"
       >
+      @for (item of commonService.websiteList; track $index) {
+        <li
+          nz-menu-item
+          *ngIf="item.type; else submenu"
+          (click)="commonService.handleClickClass(item.id)"
+          style="padding-left: 24px !important;"
+        >
+          <img *ngIf="item.icon" class="sideicon fixicon" [src]="item.icon" />
+          <span class="ellipsis">{{ item.title }}</span>
+        </li>
+        <ng-template #submenu>
         <li
           nz-submenu
-          *ngFor="
-            let item of commonService.websiteList;
-            index as pageIdx;
-            trackBy: commonService.trackByItem
-          "
           (nzOpenChange)="openMenu(item)"
           [nzTitle]="titleTpl"
           [nzOpen]="item.id === menuOpenId"
@@ -54,7 +60,7 @@
                 trackBy: commonService.trackByItem
               "
               [nzSelected]="
-                commonService.oneIndex === pageIdx &&
+                commonService.oneIndex === $index &&
                 commonService.twoIndex === idIdx
               "
               (click)="commonService.handleClickClass(el.id)"
@@ -64,7 +70,7 @@
 
               <div
                 *ngIf="
-                  commonService.oneIndex === pageIdx &&
+                  commonService.oneIndex === $index &&
                   commonService.twoIndex === idIdx
                 "
                 (click)="commonService.onCollapseAll($event)"
@@ -79,6 +85,8 @@
             </li>
           </ul>
         </li>
+        </ng-template>
+        }
       </ul>
     </nz-sider>
 

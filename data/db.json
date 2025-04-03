@@ -1,0 +1,3314 @@
+[
+    {
+        "id": 100000000000,
+        "type": "item",
+        "title": "AI写作",
+        "icon": "",
+        "nav": [
+            {
+                "id": 100001000000,
+                "title": "AI写作",
+                "icon": "",
+                "nav": [
+                    {
+                        "id": 100001001000,
+                        "title": "AI写作",
+                        "icon": "",
+                        "nav": [
+                            {
+                                "id": 100001001001,
+                                "name": "万能小in",
+                                "icon": "https://hao8.qhimg.com/t11148baf612d74e3b5ce73e498.png?size=200x200",
+                                "desc": "AI长文写作专家,3分钟2万字",
+                                "aid": "LAPVQEboLXC3Pw",
+                                "url": "https://xiaoin.com.cn/",
+                                "tags": [
+                                    {"url":"","id":"写作助手"},
+                                    {"url":"","id":"办公"}
+                                ]
+                            },
+                            {
+                                "id": 100001001002,
+                                "name": "Effidit",
+                                "icon": "https://hao7.qhimg.com/t01d6eb79bc50620002.png?size=72x72",
+                                "desc": "腾讯 AI Lab 研发的智能创作助手。",
+                                "aid": "LNjWQUTkLX77OD",
+                                "url": "https://effidit.qq.com/",
+                                "tags": [
+                                    {"url":"","id":"写作助手"},
+                                    {"url":"","id":"腾讯"},
+                                    {"url":"","id":"AI写作"}
+                                ]
+                            },
+                            {
+                                "id": 100001001003,
+                                "name": "火龙果",
+                                "icon": "https://hao8.qhimg.com/t016b3294eee269cf49.png?size=100x100",
+                                "desc": "一站式AI智能写作产品，帮你轻松写作，大大提高效率。",
+                                "aid": "MNPYP0XmLX77Oj",
+                                "url": "https://www.mypitaya.com/",
+                                "tags": [
+                                    {"url":"","id":"火龙果"},
+                                    {"url":"","id":"写作助手"},
+                                    {"url":"","id":"AI写作"},
+                                    {"url":"","id":"在线文档"}
+                                ]
+                            },
+                            {
+                                "id": 100001001004,
+                                "name": "有道写作",
+                                "icon": "https://hao7.qhimg.com/t0162ae0a8bfa3c2fa1.jpg?size=81x80",
+                                "desc": "更懂中国人的英文写作神器",
+                                "aid": "MtrXP0LqLX75QD",
+                                "url": "https://write.youdao.com/",
+                                "tags": [
+                                    {"url":"","id":"有道"},
+                                    {"url":"","id":"ai写作"}
+                                ]
+                            },
+                            {
+                                "id": 100001001005,
+                                "name": "创作王",
+                                "icon": "https://hao7.qhimg.com/t019855536c09698ec5.png?size=100x100",
+                                "desc": "一键创作营销内容",
+                                "aid": "KdXYQkLmYnO7PT",
+                                "url": "https://aiapp.cc/",
+                                "tags": [
+                                    {"url":"","id":"内容创作"},
+                                    {"url":"","id":"智能问答"},
+                                    {"url":"","id":"智能编写"},
+                                    {"url":"","id":"问答创作"}
+                                ]
+                            },
+                            {
+                                "id": 100001001006,
+                                "name": "Giiso写作机器人",
+                                "icon": "https://hao8.qhimg.com/t014a633c4055674240.png?size=100x100",
+                                "desc": "选、写、改、编、发全流程智能化，人机协作快速出稿。",
+                                "aid": "LtHZP0PrYHO7Pj",
+                                "url": "https://www.giiso.com/",
+                                "tags": [
+                                    {"url":"","id":"文案生成"},
+                                    {"url":"","id":"AI写作"},
+                                    {"url":"","id":"文章生成"}
+                                ]
+                            },
+                            {
+                                "id": 100001001007,
+                                "name": "HeyFriday",
+                                "icon": "https://hao8.qhimg.com/t013e806fc289ef7a6b.png?size=100x100",
+                                "desc": "智能AI写作工具",
+                                "aid": "LAjUP0XmYHO8Ow",
+                                "url": "https://www.heyfriday.cn/",
+                                "tags": [
+                                    {"url":"","id":"智能写作"},
+                                    {"url":"","id":"AI写作"},
+                                    {"url":"","id":"AI续写"}
+                                ]
+                            },
+                            {
+                                "id": 100001001008,
+                                "name": "多种草AI",
+                                "icon": "https://hao8.qhimg.com/t01d9098e3ffff5b9c5.png?size=120x120",
+                                "desc": "AI生成小红书各类文案",
+                                "aid": "LtHXP0PoLX36OT",
+                                "url": "https://duozhongcao.com/",
+                                "tags": [
+                                    {"url":"","id":"AI创作"},
+                                    {"url":"","id":"小红书"}
+                                ]
+                            },
+                            {
+                                "id": 100001001009,
+                                "name": "WPS AI",
+                                "icon": "https://hao7.qhimg.com/t0148af21789be87ad0.png?size=200x200",
+                                "desc": "企业智能办公助手",
+                                "aid": "MNPbPUTkLX78Oj",
+                                "url": "https://ai.wps.cn/",
+                                "tags": [
+                                    {"url":"","id":"写作助手"},
+                                    {"url":"","id":"WPS"},
+                                    {"url":"","id":"办公"},
+                                    {"url":"","id":"效率提升"}
+                                ]
+                            },
+                            {
+                                "id": 100001001010,
+                                "name": "内容神器",
+                                "icon": "https://hao8.qhimg.com/t0199b590ea4c957195.png?size=40x40",
+                                "desc": "以大数据支持内容工作，及时发现热点、搜索素材、选题分析。",
+                                "aid": "KdrUQETmLXCAPj",
+                                "url": "https://www.5ce.com/",
+                                "tags": [
+                                    {"url":"","id":"新媒体"},
+                                    {"url":"","id":"运营"},
+                                    {"url":"","id":"营销"},
+                                    {"url":"","id":"写作助手"}
+                                ]
+                            },
+                            {
+                                "id": 100001001011,
+                                "name": "博特妙笔",
+                                "icon": "https://hao8.qhimg.com/t012199124743116099.png?size=70x70",
+                                "desc": "集查、写、审、学一体的在线公文写作神器",
+                                "aid": "KtHdPkrmLX7BOD",
+                                "url": "https://botsmart.net/",
+                                "tags": [
+                                    {"url":"","id":"写作助手"},
+                                    {"url":"","id":"公文写作"}
+                                ]
+                            },
+                            {
+                                "id": 100001001012,
+                                "name": "美编",
+                                "icon": "https://hao7.qhimg.com/t017306a8fca8b075ee.png?size=70x70",
+                                "desc": "免费、高效的公众号运营工具。",
+                                "aid": "LNbZPUPjLXCAPT",
+                                "url": "https://www.mbian.com/",
+                                "tags": [
+                                    {"url":"","id":"新媒体"},
+                                    {"url":"","id":"营销"},
+                                    {"url":"","id":"写作助手"}
+                                ]
+                            },
+                            {
+                                "id": 100001001013,
+                                "name": "奕写",
+                                "icon": "https://hao7.qhimg.com/t012b35ccb99be8f253.png?size=200x200",
+                                "desc": "内容创作者的写作神器",
+                                "aid": "LNbXQEbjLX7BOw",
+                                "url": "https://writing.yuntianyi.com/",
+                                "tags": [
+                                    {"url":"","id":"写作助手"},
+                                    {"url":"","id":"AIGC"}
+                                ]
+                            },
+                            {
+                                "id": 100001001014,
+                                "name": "笔灵AI",
+                                "icon": "https://hao7.qhimg.com/t015e12c1d8bb085757.jpg?size=100x100",
+                                "desc": "多场景全覆盖AI创作型内容生成",
+                                "aid": "KAjcQUTmLX75Oj",
+                                "url": "https://ibiling.cn/",
+                                "tags": [
+                                    {"url":"","id":"AI写作"},
+                                    {"url":"","id":"ChatGPT"},
+                                    {"url":"","id":"AI文案"}
+                                ]
+                            },
+                            {
+                                "id": 100001001015,
+                                "name": "极简智能王",
+                                "icon": "https://hao7.qhimg.com/t0167fd37ac1c9f472d.png?size=200x200",
+                                "desc": "提供一站式AI创作工具，提高极简智能效率。",
+                                "aid": "LdnXQkHlLX7BOT",
+                                "url": "https://www.jijianzn.com/",
+                                "tags": [
+                                    {"url":"","id":"写作助手"},
+                                    {"url":"","id":"绘画"},
+                                    {"url":"","id":"营销"},
+                                    {"url":"","id":"创作"},
+                                    "翻译",
+                                    "程序开发"
+                                ]
+                            },
+                            {
+                                "id": 100001001016,
+                                "name": "轻松鲨",
+                                "icon": "https://hao7.qhimg.com/t017c7543017ce7c0dd.png?size=160x160",
+                                "desc": "与AI连续对话聊天，帮你解答各种疑问。",
+                                "aid": "MdPaPUPrLXC3OT",
+                                "url": "https://www.qingsongsha.com/",
+                                "tags": [
+                                    {"url":"","id":"聊天机器人"},
+                                    {"url":"","id":"写作助手"},
+                                    {"url":"","id":"营销"},
+                                    {"url":"","id":"办公"},
+                                    "效率提升"
+                                ]
+                            },
+                            {
+                                "id": 100001001017,
+                                "name": "魔撰写作",
+                                "icon": "https://hao7.qhimg.com/t01e339fc0b7d92cd91.png?size=180x180",
+                                "desc": "激发创意灵感，高效写出个性化内容。",
+                                "aid": "MtLUQEjjLXG3Ow",
+                                "url": "https://x.moyin.com/",
+                                "tags": [
+                                    {"url":"","id":"写作助手"},
+                                    {"url":"","id":"营销"},
+                                    {"url":"","id":"新媒体"}
+                                ]
+                            },
+                            {
+                                "id": 100001001018,
+                                "name": "魔法AI",
+                                "icon": "https://hao7.qhimg.com/t017778e2b31c24303d.png",
+                                "desc": "跨境电商营销创意生成工具。",
+                                "aid": "LtLWPkPoLXC5PT",
+                                "url": "https://www.mofaai.com.cn/",
+                                "tags": [
+                                    {"url":"","id":"电商"},
+                                    {"url":"","id":"营销"},
+                                    {"url":"","id":"写作助手"}
+                                ]
+                            },
+                            {
+                                "id": 100001001019,
+                                "name": "AI-DOG",
+                                "icon": "https://hao7.qhimg.com/t015211539561e442a2.png?size=200x200",
+                                "desc": "适合国内用户的AI创作应用平台",
+                                "aid": "KtPWQkXlLXCBPw",
+                                "url": "https://www.ai-dog.net/",
+                                "tags": [
+                                    {"url":"","id":"写作助手"},
+                                    {"url":"","id":"营销"}
+                                ]
+                            },
+                            {
+                                "id": 100001001020,
+                                "name": "Verse",
+                                "icon": "https://hao7.qhimg.com/t01f04f7a1d2b468729.png?size=160x160",
+                                "desc": "印象笔记旗下团队推出的AI写作和文档工具。",
+                                "aid": "LNPbQkLrLXG3OD",
+                                "url": "https://verse.app.yinxiang.com/product/",
+                                "tags": [
+                                    {"url":"","id":"写作助手"},
+                                    {"url":"","id":"办公"}
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 101000000000,
+        "type": "item",
+        "title": "AI绘画",
+        "icon": "",
+        "nav": [
+            {
+                "id": 101001000000,
+                "title": "AI绘画",
+                "icon": "",
+                "nav": [
+                    {
+                        "id": 101001001000,
+                        "title": "AI绘画",
+                        "icon": "",
+                        "nav": [
+                            {
+                                "id": 101001001001,
+                                "name": "360鸿图",
+                                "icon": "https://hao8.qhimg.com/t019ab8565dbe60ad2a.png?size=78x56",
+                                "desc": "输入关键词，立即生成图片",
+                                "aid": "LNHZQUfjXnKBPD",
+                                "url": "https://tu.360.cn/?src=aidaohang",
+                                "tags": [
+                                    {"url":"","id":"绘画"},
+                                    {"url":"","id":"360智脑"}
+                                ]
+                            },
+                            {
+                                "id": 101001001003,
+                                "name": "360智绘",
+                                "icon": "https://hao7.qhimg.com/t11148baf61ab3ba5834e158b86.png?size=52x52",
+                                "desc": "360AI绘画应用与分享平台",
+                                "aid": "KALaREfmLXGDOw",
+                                "url": "https://aigc.360.com/?src=dh_360_com",
+                                "tags": [
+                                    {"url":"","id":"绘画"},
+                                    {"url":"","id":"360智脑"},
+                                    {"url":"","id":"艺术"},
+                                    {"url":"","id":"创作"}
+                                ]
+                            },
+                            {
+                                "id": 101001001004,
+                                "name": "文心一格",
+                                "icon": "https://hao7.qhimg.com/t012b2e7458adc43dfd.png?size=64x64",
+                                "desc": "AI艺术和创意辅助平台",
+                                "aid": "KtbXQ0rnYnO3PT",
+                                "url": "https://yige.baidu.com/",
+                                "tags": [
+                                    {"url":"","id":"图片生成"},
+                                    {"url":"","id":"AI绘画"},
+                                    {"url":"","id":"人工智能"},
+                                    {"url":"","id":"图片"}
+                                ]
+                            },
+                            {
+                                "id": 101001001005,
+                                "name": "WHEE",
+                                "icon": "https://hao7.qhimg.com/t01862444206ab6d151.png?size=100x100",
+                                "desc": "美图最新推出的AI图片和绘画创作生成平台。",
+                                "aid": "KtHURUfsLX7AOD",
+                                "url": "https://www.whee.com/",
+                                "tags": [
+                                    {"url":"","id":"绘画"},
+                                    {"url":"","id":"美图"},
+                                    {"url":"","id":"创意"}
+                                ]
+                            },
+                            {
+                                "id": 101001001006,
+                                "name": "堆友",
+                                "icon": "https://hao7.qhimg.com/t01ccf45149a03a4bfd.png?size=200x200",
+                                "desc": "阿里旗下堆友推出的多风格AI绘画生成器。",
+                                "aid": "KdPVPkLnLX7APT",
+                                "url": "https://d.design/",
+                                "tags": [
+                                    {"url":"","id":"绘画"},
+                                    {"url":"","id":"创意"},
+                                    {"url":"","id":"发散思维"}
+                                ]
+                            },
+                            {
+                                "id": 101001001007,
+                                "name": "简单AI",
+                                "icon": "https://hao7.qhimg.com/t0111025773dcbaec50.png?size=102x102",
+                                "desc": "搜狐公司旗下AI绘画产品",
+                                "aid": "KdHVQ0fjLX76PT",
+                                "url": "https://ai.sohu.com/",
+                                "tags": [
+                                    {"url":"","id":"绘画"},
+                                    {"url":"","id":"搜狐"},
+                                    {"url":"","id":"艺术"}
+                                ]
+                            },
+                            {
+                                "id": 101001001008,
+                                "name": "鹿斑",
+                                "icon": "https://hao8.qhimg.com/t0187cee7fd9452a883.png?size=120x120",
+                                "desc": "根据商品图批量设计各类场景图片。",
+                                "aid": "MtrUQkPlLXC5Pj",
+                                "url": "https://luban.aliyun.com/",
+                                "tags": [
+                                    {"url":"","id":"营销"},
+                                    {"url":"","id":"阿里巴巴"},
+                                    {"url":"","id":"绘画"},
+                                    {"url":"","id":"创意"}
+                                ]
+                            },
+                            {
+                                "id": 101001001009,
+                                "name": "秒画",
+                                "icon": "https://hao8.qhimg.com/t0179253761b060f4ac.png?size=160x160",
+                                "desc": "商汤科技推出的免费AI绘画创作平台。",
+                                "aid": "KtbXQ0HkLXG8Ow",
+                                "url": "https://miaohua.sensetime.com/",
+                                "tags": [
+                                    {"url":"","id":"绘画"},
+                                    {"url":"","id":"创作平台"}
+                                ]
+                            },
+                            {
+                                "id": 101001001010,
+                                "name": "无限画",
+                                "icon": "https://hao8.qhimg.com/t0128ab883e072ebeb3.png?size=160x160",
+                                "desc": "千库网旗下AI设计工具，可一键生成高品质目标图像。",
+                                "aid": "LtLUQUPkLXC5QD",
+                                "url": "https://588ku.com/ai/wuxianhua/",
+                                "tags": [
+                                    {"url":"","id":"绘画"},
+                                    {"url":"","id":"设计"}
+                                ]
+                            },
+                            {
+                                "id": 101001001011,
+                                "name": "6pen",
+                                "icon": "https://hao7.qhimg.com/t019386b2bcec2a6bae.png?size=120x120",
+                                "desc": "面包多团队推出的从文本描述生成绘画艺术作品。",
+                                "aid": "KdHVPUPkLXCBPT",
+                                "url": "https://6pen.art/",
+                                "tags": [
+                                    {"url":"","id":"绘画"},
+                                    {"url":"","id":"艺术"},
+                                    {"url":"","id":"设计"},
+                                    {"url":"","id":"创作"}
+                                ]
+                            },
+                            {
+                                "id": 101001001012,
+                                "name": "万兴爱画",
+                                "icon": "https://hao7.qhimg.com/t019826475d3bdc0676.png?size=100x100",
+                                "desc": "AI生成高品质艺术画工具",
+                                "aid": "LtbUQUTjZXOBOj",
+                                "url": "https://aigc.wondershare.cn/",
+                                "tags": [
+                                    {"url":"","id":"AI作画"},
+                                    {"url":"","id":"图片生成"}
+                                ]
+                            },
+                            {
+                                "id": 101001001013,
+                                "name": "可画",
+                                "icon": "https://hao8.qhimg.com/t01464a07ce2c21645a.jpg?size=200x200",
+                                "desc": "轻松创建并分享专业设计。",
+                                "aid": "MtLZPkPoLXK6PD",
+                                "url": "https://www.canva.cn/",
+                                "tags": [
+                                    {"url":"","id":"绘画"},
+                                    {"url":"","id":"设计"}
+                                ]
+                            },
+                            {
+                                "id": 101001001015,
+                                "name": "触站AI",
+                                "icon": "https://hao8.qhimg.com/t019f8ea9179f7d31db.png?size=200x200",
+                                "desc": "免费AI作图工具和AI作画自动生成器。",
+                                "aid": "KtPXQUPmLXGAOT",
+                                "url": "https://www.huashi6.com/ai/draw",
+                                "tags": [
+                                    {"url":"","id":"绘画"},
+                                    {"url":"","id":"二次元"},
+                                    {"url":"","id":"提示词"}
+                                ]
+                            },
+                            {
+                                "id": 101001001014,
+                                "name": "炼丹家AI",
+                                "icon": "https://hao8.qhimg.com/t014183dd734b01ffe8.png?size=200x200",
+                                "desc": "能够简单高效生成高质量文本创作与绘制出各种各样的惊艳图片作品。",
+                                "aid": "KATdPUPjLXC3Pj",
+                                "url": "https://www.liandanjia.com/",
+                                "tags": [
+                                    {"url":"","id":"绘画"},
+                                    {"url":"","id":"AI对话"}
+                                ]
+                            },
+                            {
+                                "id": 101001001016,
+                                "name": "网易AI创意工坊",
+                                "icon": "https://hao8.qhimg.com/t01691c8aebc743c1a4.png?size=80x80",
+                                "desc": "无需部署、无需安装即可体验Stable Diffusion。",
+                                "aid": "KdTYREXkLXGAPD",
+                                "url": "https://ke.study.163.com/artWorks/painting",
+                                "tags": [
+                                    {"url":"","id":"绘画"},
+                                    {"url":"","id":"艺术"},
+                                    {"url":"","id":"网易"}
+                                ]
+                            },
+                            {
+                                "id": 101001001017,
+                                "name": "意间AI绘画",
+                                "icon": "https://hao7.qhimg.com/t0107ab1b48a8e8b62e.png?size=160x160",
+                                "desc": "中文AI绘画工具。",
+                                "aid": "KdHUPkPkLXG6PD",
+                                "url": "http://portal.yjai.art/",
+                                "tags": [
+                                    {"url":"","id":"绘画"},
+                                    {"url":"","id":"艺术"}
+                                ]
+                            },
+                            {
+                                "id": 101001001018,
+                                "name": "豆绘AI",
+                                "icon": "https://hao7.qhimg.com/t01153f074235400294.png?size=110x110",
+                                "desc": "专业服务建筑室内园林景观从业者的空间设计AI平台。",
+                                "aid": "LtrVRkTrLXGBQw",
+                                "url": "https://www.douhuiai.com/",
+                                "tags": [
+                                    {"url":"","id":"绘画"},
+                                    {"url":"","id":"艺术"}
+                                ]
+                            },
+                            {
+                                "id": 101001001019,
+                                "name": "米啫喱AI",
+                                "icon": "https://hao7.qhimg.com/t019bdb0d0c5f4c9edf.png?size=70x70",
+                                "desc": "专为国内设计师打造的AI绘画平台。",
+                                "aid": "KdbWPULsLXS3Qw",
+                                "url": "https://mizheliai.com/",
+                                "tags": [
+                                    {"url":"","id":"绘画"},
+                                    {"url":"","id":"提示词"}
+                                ]
+                            },
+                            {
+                                "id": 101001001020,
+                                "name": "Dreamina",
+                                "icon": "https://hao8.qhimg.com/t014fefa99b3454970c.png?size=150x150",
+                                "desc": "抖音旗下AI绘画工具。",
+                                "aid": "LNLYQkbnLXODOD",
+                                "url": "https://www.capcut.cn/ai-tool/",
+                                "tags": [
+                                    {"url":"","id":"绘画"}
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 102000000000,
+        "type": "item",
+        "title": "AI设计",
+        "icon": "",
+        "nav": [
+            {
+                "id": 102001000000,
+                "title": "AI设计",
+                "icon": "",
+                "nav": [
+                    {
+                        "id": 102001001000,
+                        "title": "AI设计",
+                        "icon": "",
+                        "nav": [
+                            {
+                                "id": 102001001009,
+                                "name": "小K电商图",
+                                "icon": "https://hao8.qhimg.com/t018c4f297c4b5ed094.png?size=180x180",
+                                "desc": "简单操作即可生成适合世界各地市场的AI模特和AI场景的电商图片。",
+                                "aid": "LdnbQkbnLXGBPD",
+                                "url": "https://ds.yunboai.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "绘画"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "电子商务"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 102001001011,
+                                "name": "PixelForce",
+                                "icon": "https://hao7.qhimg.com/t01ea92f53a71b1d22a.png?size=150x150",
+                                "desc": "简单几步操作即刻实现商拍自由，随心所欲展示产品价值。",
+                                "aid": "KtTURkHkLXGBOT",
+                                "url": "https://pixel-home.hiforce.net/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "绘画"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "电子商务"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 102001001001,
+                                "name": "美图设计室",
+                                "icon": "https://hao7.qhimg.com/t011a631d76585f6af4.png?size=120x120",
+                                "desc": "美图秀秀旗下的智能设计在线协作平台。",
+                                "aid": "LdPVRUnqLXS6QD",
+                                "url": "https://www.designkit.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "设计"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "图片处理"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "美图"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 102001001010,
+                                "name": "WeShop",
+                                "icon": "https://hao8.qhimg.com/t0154e27e52bcbcb17e.png?size=140x140",
+                                "desc": "AI商拍，不会受到模特/经纪/摄影/后期/场租/机酒的限制，省时省力又省钱。",
+                                "aid": "KdLVP0jsLXC5OD",
+                                "url": "https://www.weshop.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "营销"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "绘画"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 102001001013,
+                                "name": "即时设计",
+                                "icon": "https://hao8.qhimg.com/t0145bdf3ba444a105a.jpg?size=640x640",
+                                "desc": "一款可在线使用的「专业 UI 设计工具」 ",
+                                "aid": "LtrYQ0nkYHKCPD",
+                                "url": "https://js.design/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "AI产品"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "AI设计"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 102001001012,
+                                "name": "神采",
+                                "icon": "https://hao7.qhimg.com/t015bd8eff98ea6f3d4.png?size=80x80",
+                                "desc": "让创意照进现实， AI生成创意插画。",
+                                "aid": "MdfZQkHqLXG3Qw",
+                                "url": "https://www.ishencai.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "视频"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "产品设计"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "建筑"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "游戏"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "绘画"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 102001001016,
+                                "name": "uBrand",
+                                "icon": "https://hao7.qhimg.com/t01760e9ce9c283db2c.jpg",
+                                "desc": "一站式AI品牌创建平台，快速打造专业品牌！",
+                                "aid": "KAXdPkLoLXCAPD",
+                                "url": "https://www.ubrand.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "设计"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "营销"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 102001001015,
+                                "name": "Found纷得",
+                                "icon": "https://hao8.qhimg.com/t01cb99861756a5792c.png?size=180x180",
+                                "desc": "一键 AI 资产编辑工具，数字资产管理解决方案",
+                                "aid": "LNLZP0fmLXC5Qw",
+                                "url": "https://www.aalab.com.cn/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "绘画"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "设计"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "视频"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "协作"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "效率提升"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 102001001017,
+                                "name": "千面AI模特",
+                                "icon": "https://hao7.qhimg.com/t0101470e29f9978cf9.png?size=72x72",
+                                "desc": "电商模特图生成工具。",
+                                "aid": "KAHVP0fnLXKCPj",
+                                "url": "https://aiqianmian.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "绘画"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "设计"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "电商"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "营销"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 102001001014,
+                                "name": "模袋云",
+                                "icon": "https://hao7.qhimg.com/t016e70be8fd6461893.jpg?size=101x101",
+                                "desc": "快来设计你的理想住宅",
+                                "aid": "KAjWQEXpLX74PT",
+                                "url": "https://www.modaiyun.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "别墅设计"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "AI设计"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 102001001018,
+                                "name": "美间AI",
+                                "icon": "https://hao7.qhimg.com/t0128e266d70d4dcf5c.png?size=200x200",
+                                "desc": "AI智能海报，AI提案PPT，AI场景拼搭。",
+                                "aid": "MNfYPkTrLXO5Qw",
+                                "url": "https://design.meijian.com/mj/meijian-tool/meijian-platform/ai-gather",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "设计"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "PPT"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 102001001019,
+                                "name": "酷家乐AI",
+                                "icon": "https://hao8.qhimg.com/t011cc01b70fddcabaa.png?size=110x110",
+                                "desc": "功能强大的AI家居设计软件。",
+                                "aid": "MNXVQ0jnLXOCQD",
+                                "url": "https://www.kujiale.com/activities/AI-kujiale",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "设计"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "家居装修"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 102001001002,
+                                "name": "智绘设计",
+                                "icon": "https://hao8.qhimg.com/t0102110de7b0cd5dae.png?size=100x100",
+                                "desc": "腾讯推出的素材智能化设计生产平台",
+                                "aid": "KdHVREfpLXG5OD",
+                                "url": "https://taishan.qq.com/brand/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "设计"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "腾讯"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "办公"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 102001001003,
+                                "name": "AI智绘",
+                                "icon": "https://hao7.qhimg.com/t01bac8e08956044b50.png?size=80x80",
+                                "desc": "服装设计款式AI生成软件。",
+                                "aid": "LALVRkroLXK4PD",
+                                "url": "https://www.pop-fashion.com/aidraw",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "设计"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "绘画"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "服装"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "画像处理"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 102001001005,
+                                "name": "Pixso AI",
+                                "icon": "https://hao7.qhimg.com/t0125f99c54a3795ead.png?size=80x80",
+                                "desc": "国产在线设计工具Pixso的内置AI助手，支持AI文生图、AI对话、AI设计等。",
+                                "aid": "KtHaQkLkLXG4Pw",
+                                "url": "https://pixso.cn/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "设计"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "协作"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "绘画"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "智能对话"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 102001001004,
+                                "name": "标智客",
+                                "icon": "https://hao7.qhimg.com/t01cb3453abf8ad7b38.png?size=200x200",
+                                "desc": "一键生成Logo和VI视觉形象识别系统",
+                                "aid": "KAfWP0PkLXC4QD",
+                                "url": "https://www.logomaker.com.cn/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "设计"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "办公"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 102001001007,
+                                "name": "标小智",
+                                "icon": "https://hao7.qhimg.com/t014d705fc97dce0c64.jpg?size=100x100",
+                                "desc": "智能LOGO设计生成器，人工智能为您在线LOGO设计，生成企业VI，打造个性品牌！",
+                                "aid": "KdbXQkblLX75PT",
+                                "url": "https://www.logosc.cn/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "logo生成"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "智能创作"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 102001001006,
+                                "name": "Motiff",
+                                "icon": "https://hao7.qhimg.com/t0106b626b466298c3c.png?size=88x88",
+                                "desc": "AI时代设计工具",
+                                "aid": "MdLUQUTrLX74Oj",
+                                "url": "https://motiff.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "AI设计"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "AI产品"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 102001001008,
+                                "name": "晨羽智云",
+                                "icon": "https://hao8.qhimg.com/t01ab7c6347e8c8c454.png?size=200x200",
+                                "desc": "绘制故事中的人物和时刻，以及领先的艺术和其他模型。",
+                                "aid": "LNTcRkboLXK7QD",
+                                "url": "https://www.cyuai.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "绘画"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "电商"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "营销"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "游戏"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 103000000000,
+        "type": "item",
+        "title": "AI图片",
+        "icon": "",
+        "nav": [
+            {
+                "id": 103001000000,
+                "title": "AI图片",
+                "icon": "",
+                "nav": [
+                    {
+                        "id": 103001001000,
+                        "title": "AI图片",
+                        "icon": "",
+                        "nav": [
+                            {
+                                "id": 103001001002,
+                                "name": "ARC",
+                                "icon": "https://hao7.qhimg.com/t01610bc38d6d900272.png?size=100x100",
+                                "desc": "腾讯旗下ARC实验室推出的AI图片处理工具",
+                                "aid": "KdTXQULnLX7AOw",
+                                "url": "https://arc.tencent.com/zh/ai-demos/faceRestoration",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "绘画"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "修复"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "创意"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "腾讯"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 103001001010,
+                                "name": "jpgHD",
+                                "icon": "https://hao8.qhimg.com/t0102e525f61795d42c.png?size=200x200",
+                                "desc": "人工智能老照片上色和修复。",
+                                "aid": "LdPZPkjnLXG4OD",
+                                "url": "https://jpghd.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "图片处理"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 103001001003,
+                                "name": "美图抠图",
+                                "icon": "https://hao8.qhimg.com/t01a517336f397a6323.jpg?size=86x86",
+                                "desc": "一键擦除背景",
+                                "aid": "LtHdQkbjLX73QD",
+                                "url": "https://cutout.designkit.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "抠图"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 103001001001,
+                                "name": "稿定抠图",
+                                "icon": "https://hao7.qhimg.com/t01c2703140789723d9.png?size=144x144",
+                                "desc": "稿定设计推出的AI自动消除背景工具。",
+                                "aid": "LtTWQUfjLXS7Qw",
+                                "url": "https://koutu.gaoding.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "图片处理"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 103001001011,
+                                "name": "咻图AI",
+                                "icon": "https://hao7.qhimg.com/t017afb467686a36ff2.png?size=200x200",
+                                "desc": "AI人脸识别融合先进图像算法，10分钟修图。",
+                                "aid": "LtPUPkLmLXKBPw",
+                                "url": "https://www.aixtsy.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "图片处理"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 103001001012,
+                                "name": "去去去",
+                                "icon": "https://hao8.qhimg.com/t01fa5ed8141d970190.png?size=80x80",
+                                "desc": "一键涂抹水印，无痕去除。",
+                                "aid": "LNjXQkflLXG6PT",
+                                "url": "https://quququ.cn/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "绘画"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "工具"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "效率提升"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 103001001005,
+                                "name": "改图神器",
+                                "icon": "https://hao8.qhimg.com/t0136ee754081d71fbb.png?size=200x200",
+                                "desc": "一款人人都能在线使用的万能图片编辑工具。",
+                                "aid": "LdTdQEnjLXC6OD",
+                                "url": "https://img.logosc.cn/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "绘画"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "效率提升"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "图片编辑"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "工具箱"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 103001001014,
+                                "name": "图可丽",
+                                "icon": "https://hao7.qhimg.com/t01badaf9e332a51849.png?size=60x60",
+                                "desc": "智能一键抠图、高清、修复、转卡通。",
+                                "aid": "LALdQUfrLXODOw",
+                                "url": "https://www.tukeli.net/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "图片处理"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "视频"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "绘画"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 103001001004,
+                                "name": "美图秀秀图片编辑",
+                                "icon": "https://hao8.qhimg.com/t0152dd24cf5e7d9a15.jpg",
+                                "desc": "调光调色调滤镜，一键完成",
+                                "aid": "LdnWP0HjLX74Pw",
+                                "url": "https://pc.meitu.com/image/edit/?from=icon",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "图片编辑"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 103001001006,
+                                "name": "美图云修",
+                                "icon": "https://hao7.qhimg.com/t010128c62d7d1b5bdf.png?size=80x80",
+                                "desc": "美图秀秀推出的一站式AI智能修图软件。",
+                                "aid": "KAjWRUbnLXG3QD",
+                                "url": "https://yunxiu.meitu.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "绘画"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "图片处理"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 103001001013,
+                                "name": "凡科Ai抠图",
+                                "icon": "https://hao7.qhimg.com/t01ba572a20b634e575.png?size=160x160",
+                                "desc": "轻划几笔，即可清除图片背景。",
+                                "aid": "LdbWPUrjLXK6Ow",
+                                "url": "https://kt.fkw.com/koutu.html",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "图片处理"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 103001001007,
+                                "name": "Bgsub",
+                                "icon": "https://hao7.qhimg.com/t01dbc37eaec3cc4314.png?size=180x180",
+                                "desc": "无需上传您的图像数据，自动去除图像背景。",
+                                "aid": "LtHVP0bpLXG6Pj",
+                                "url": "https://bgsub.cn/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "绘画"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "工具"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 103001001008,
+                                "name": "一键抠图",
+                                "icon": "https://hao8.qhimg.com/t011057bd3fe354eac3.png?size=40x40",
+                                "desc": "在线抠图工具，并提供多种输出格式和编辑选项。",
+                                "aid": "KALVP0TlLXK6OD",
+                                "url": "https://www.yijiankoutu.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "图片处理"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "抠图"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "证件照"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 103001001009,
+                                "name": "创客贴AI画匠",
+                                "icon": "https://hao7.qhimg.com/t0164889e9e6085045e.png?size=140x140",
+                                "desc": "创客贴推出的AI艺术画生成工具。",
+                                "aid": "LdTbPUToLXG3OT",
+                                "url": "https://aiart.chuangkit.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "绘画"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "设计"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "办公"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 104000000000,
+        "type": "item",
+        "title": "AI办公",
+        "icon": "",
+        "nav": [
+            {
+                "id": 104001000000,
+                "title": "AI办公",
+                "icon": "",
+                "nav": [
+                    {
+                        "id": 104001001000,
+                        "title": "AI办公",
+                        "icon": "",
+                        "nav": [
+                            {
+                                "id": 104001001006,
+                                "name": "MasterGo",
+                                "icon": "https://hao7.qhimg.com/t0179a6293c53d5a1d5.png?size=200x200",
+                                "desc": "面向团队的专业 UI/UX 设计工具",
+                                "aid": "MNrdQEPlLXC4Pj",
+                                "url": "https://mastergo.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "设计"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "办公"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "效率提升"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "协作"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 104001001005,
+                                "name": "酷表ChatExcel",
+                                "icon": "https://hao7.qhimg.com/t018143db15806c96d3.png?size=100x100",
+                                "desc": "北大团队开发的通过聊天来操作Excel表格的AI工具",
+                                "aid": "LdHXRUnnLX7DPw",
+                                "url": "https://chatexcel.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "办公"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "效率提升"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "Excel"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "表格"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "数据"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 104001001007,
+                                "name": "印象AI",
+                                "icon": "https://hao7.qhimg.com/t018ca0c1766b690827.png?size=100x100",
+                                "desc": "印象笔记推出的AI知识和信息管理功能",
+                                "aid": "LAnYQErjLX7DPD",
+                                "url": "https://www.yinxiang.com/about/yxai-yxbj/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "办公"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "效率提升"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "文档"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "协作"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 104001001010,
+                                "name": "芦笋提词器",
+                                "icon": "https://hao8.qhimg.com/t01f5540c491bcafa6c.png?size=140x140",
+                                "desc": "支持智能跟读、滚屏提词和隐形提词的电脑端提词工具。",
+                                "aid": "LtfWRUnlLXG8OT",
+                                "url": "https://tcq.lusun.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "语音识别"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "办公"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 104001001009,
+                                "name": "爱设计PPT",
+                                "icon": "https://hao8.qhimg.com/t01fb6580ac872f878c.png?size=160x160",
+                                "desc": "一款AI驱动的PPT在线生成器。",
+                                "aid": "LtbcPkHoLXCAOT",
+                                "url": "https://ppt.isheji.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "PPT"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "办公"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "效率提升"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 104001001008,
+                                "name": "Fabrie",
+                                "icon": "https://hao8.qhimg.com/t018861d2a89e6d701e.png?size=140x140",
+                                "desc": "一套在线设计协作工具",
+                                "aid": "KtbYPkPqLXC4Qw",
+                                "url": "https://www.fabrie.cn/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "设计"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "协作"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "办公"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "效率提升"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 104001001011,
+                                "name": "麦耳会记",
+                                "icon": "https://hao7.qhimg.com/t01b246067f53a3cdb1.png?size=50x50",
+                                "desc": "AI会议助手，支持语音转文字、字幕同传、AI摘要。",
+                                "aid": "KtXYQkToLXCCOT",
+                                "url": "https://work.duiopen.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "办公"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "会议"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 104001001012,
+                                "name": "摹客",
+                                "icon": "https://hao7.qhimg.com/t01614e4324e356ee1f.png?size=120x120",
+                                "desc": "全能设计协作平台，产品经理用 RP，UI设计师用 DT。",
+                                "aid": "KArdRkTmLXGBPj",
+                                "url": "https://www.mockplus.cn/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "设计"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "产品"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "办公"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 104001001013,
+                                "name": "HuiPPT",
+                                "icon": "https://hao7.qhimg.com/t11148baf615de4be2c96bf6477.jpg?size=100x100",
+                                "desc": "自动生成并优化PPT大纲及内容",
+                                "aid": "KdbYQ0XkLnCCPj",
+                                "url": "https://www.huippt.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "AI办公"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "PPT工具"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 104001001014,
+                                "name": "墨刀",
+                                "icon": "https://hao7.qhimg.com/t0106c43b223890b96e.png?size=200x200",
+                                "desc": "在线一体化产品设计协作平台。",
+                                "aid": "LdfURUToLXG4Oj",
+                                "url": "https://modao.cc/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "办公"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "效率提升"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "协作"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "产品"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "设计"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 104001001016,
+                                "name": "幕布",
+                                "icon": "https://hao8.qhimg.com/t01462a3fefd23af8ea.png?size=120x120",
+                                "desc": "一键把大纲结构的文本内容转化成思维导图。",
+                                "aid": "LNfURUTkLXCBOT",
+                                "url": "https://mubu.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "办公"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "思维导航"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "效率提升"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 104001001015,
+                                "name": "通义听悟",
+                                "icon": "https://hao7.qhimg.com/t01fa7b5f91ae6208ce.png?size=700x700",
+                                "desc": "实时转录和音视频转文字，智能生成总结，实时翻译。",
+                                "aid": "LdPWQEflLXCAPw",
+                                "url": "https://tingwu.aliyun.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "办公"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "效率提升"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "音频"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "写作助手"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "翻译"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 104001001018,
+                                "name": "秒出PPT",
+                                "icon": "https://hao8.qhimg.com/t01ea42bf4378eb5385.png?size=200x200",
+                                "desc": "输入内容10秒完成你的专属PPT。",
+                                "aid": "KAbZPUnlLXG6Qw",
+                                "url": "https://10sppt.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "办公"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "效率提升"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "PPT"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 104001001017,
+                                "name": "职徒简历",
+                                "icon": "https://hao8.qhimg.com/t01d19bbba32a84ef09.png?size=200x200",
+                                "desc": "智能简历制作软件，基于GPT的简历优化和简历代写。",
+                                "aid": "LtLdREPpLXCAOj",
+                                "url": "https://www.52cv.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "简历"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "招聘"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "求职"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "办公"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 104001001019,
+                                "name": "星火文档问答",
+                                "icon": "https://hao8.qhimg.com/t010baae116cc0fead3.png?size=100x100",
+                                "desc": "高效检索文档信息，准确回答专业问题。",
+                                "aid": "MtLdPkXjLXO6Pj",
+                                "url": "https://chatdoc.xfyun.cn/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "智能对话"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 104001001001,
+                                "name": "讯飞听见",
+                                "icon": "https://hao8.qhimg.com/t011a4438a7c9bc3e31.png?size=100x100",
+                                "desc": "AI智能会议系统",
+                                "aid": "LdXaREfsX3SAOT",
+                                "url": "https://meeting.iflyrec.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "视频会议"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "AI会议"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 104001001003,
+                                "name": "AI数字员工",
+                                "icon": "https://hao7.qhimg.com/t0193f0ca0e35ecfdd8.png?size=120x120",
+                                "desc": "让AI数字员工 7*24 小时替你完成工",
+                                "aid": "MtjaQ0PnLXGDOD",
+                                "url": "https://ai.n.cn/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "办公"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "写作助手"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "翻译"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "营销"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "360智脑"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 104001001002,
+                                "name": "花火数图",
+                                "icon": "https://hao7.qhimg.com/t11148baf61e6828cc291e5cfd1.jpg?size=180x180",
+                                "desc": "在线图表制作工具",
+                                "aid": "KtbUQUbkLnGAPT",
+                                "url": "https://hanabi.cn/h2/index",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 104001001004,
+                                "name": "AiPPT",
+                                "icon": "https://hao8.qhimg.com/t01e1d4feb8e9773bf9.png?size=200x200",
+                                "desc": "Ai一键生成高质量PPT。",
+                                "aid": "LAPbQkLsLXC3OD",
+                                "url": "https://www.aippt.cn/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "办公"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "效率提升"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "PPT"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 105000000000,
+        "type": "item",
+        "title": "AI对话",
+        "icon": "",
+        "nav": [
+            {
+                "id": 105001000000,
+                "title": "AI对话",
+                "icon": "",
+                "nav": [
+                    {
+                        "id": 105001001000,
+                        "title": "AI对话",
+                        "icon": "",
+                        "nav": [
+                            {
+                                "id": 105001001002,
+                                "name": "百度AI伙伴",
+                                "icon": "https://p1.ssl.qhimg.com/t01c1f6d127c8a180f8.webp?size=150x150",
+                                "desc": "基于文心大模型的AI搜索对话工具。",
+                                "aid": "KAbXQkHpLXG5Pw",
+                                "url": "https://chat.baidu.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "智能对话"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "百度"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "搜索"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 105001001001,
+                                "name": "360智脑",
+                                "icon": "https://hao8.qhimg.com/t0138c6bb0b04b78cbe.png?size=140x140",
+                                "desc": "拥有独特语言理解能力，通过实时对话，解答疑惑、探索灵感，用AI技术帮人类打开智慧的大门",
+                                "aid": "MtTWPkbnZHKAOj",
+                                "url": "https://chat.360.cn/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "AI对话"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "大模型"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 105001001003,
+                                "name": "文心一言",
+                                "icon": "https://hao7.qhimg.com/t01730d2985006e772b.png?size=196x193",
+                                "desc": "百度全新一代知识增强大语言模型",
+                                "aid": "KAPXRUTlYXKBOw",
+                                "url": "https://yiyan.baidu.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "AI"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "大模型"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "对话"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 105001001004,
+                                "name": "商量大语言模型",
+                                "icon": "https://hao8.qhimg.com/t017027ffe27af4eae2.jpg?size=80x80",
+                                "desc": "商汤科技AI对话产品",
+                                "aid": "KALWQkrsLX73Pw",
+                                "url": "https://chat.sensetime.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "通用大模型"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "AI产品"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "AI对话"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 105001001005,
+                                "name": "豆包",
+                                "icon": "https://hao7.qhimg.com/t01873fb019f2cf8acf.png?size=240x240",
+                                "desc": "字节首个AI对话式APP",
+                                "aid": "KdnaQEHjLX78PD",
+                                "url": "https://www.doubao.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "字节跳动"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "AI对话"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 105001001006,
+                                "name": "天工AI助手",
+                                "icon": "https://hao7.qhimg.com/t01412ec115c8e2765b.png?size=100x100",
+                                "desc": "六大领域数百种功能，带你领略人工智能的强大魅力。",
+                                "aid": "LAjXPkXkLXCCPT",
+                                "url": "https://home.tiangong.cn/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "大模型"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "智能对话"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "写作助手"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "编程"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 105001001007,
+                                "name": "思默问答",
+                                "icon": "https://hao8.qhimg.com/t01c72426fdc237e856.png?size=200x200",
+                                "desc": "高效智能的问答、写作生成器，旨在提高内容创作效率。",
+                                "aid": "LNPYRknjLXGDPT",
+                                "url": "https://www.sitesmo.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "智能对话"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "写作助手"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "绘画"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "提示词"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 105001001008,
+                                "name": "通义智文",
+                                "icon": "https://hao7.qhimg.com/t01df01871644b82185.png?size=200x200",
+                                "desc": "基于通义大模型的AI阅读助手，可智能阅读网页、论文、图书和文档。",
+                                "aid": "LdTVP0noLXKCPT",
+                                "url": "https://tongyi.aliyun.com/zhiwen",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "阅读"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "阿里云"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 105001001009,
+                                "name": "智谱清言",
+                                "icon": "https://hao7.qhimg.com/t019479f1d67f67a065.png?size=200x200",
+                                "desc": "由清华大学和智谱 AI 联合研发的第二代 GLM 系列对话语言模型。",
+                                "aid": "LNnXQkrlLXK8QD",
+                                "url": "https://chatglm.cn/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "智能对话"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 105001001010,
+                                "name": "小门道",
+                                "icon": "https://hao7.qhimg.com/t01d8f6d0ad049c0a93.png?size=200x200",
+                                "desc": "一站式图片创作AI站点",
+                                "aid": "KAPXPkjqLXC3PT",
+                                "url": "https://www.xiaomendao.cn/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "绘画"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "智能问答"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "聊天机器人"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 105001001012,
+                                "name": "沐灵AI",
+                                "icon": "https://hao7.qhimg.com/t0191ce4d89fb08f2d0.png?size=140x140",
+                                "desc": "AI 聊天工具。",
+                                "aid": "KtjWQkPoLXGAOj",
+                                "url": "https://chat.immuseai.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "智能对话"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "绘画"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 105001001011,
+                                "name": "Luca面壁露卡",
+                                "icon": "https://hao8.qhimg.com/t010a344d83451508d6.png?size=160x160",
+                                "desc": "面壁智能推出的千亿多模态大模型免费智能对话助手。",
+                                "aid": "LdTZPkrkLXG5PD",
+                                "url": "https://luca-beta.modelbest.cn/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "大模型"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "智能对话"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 105001001014,
+                                "name": "墨鱼Aigc",
+                                "icon": "https://hao8.qhimg.com/t012f1ef49ac3bff2e9.png?size=160x160",
+                                "desc": "一键生成营销广告、文案、原创文章等写作服务。",
+                                "aid": "LNbXPkTnLXK3Ow",
+                                "url": "http://www.moyuai.cn/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "写作助手"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "智能对话"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 105001001013,
+                                "name": "Chato",
+                                "icon": "https://hao8.qhimg.com/t01a3f5c3034025b548.png?size=150x150",
+                                "desc": "上传学习素材或添加提示语，获得独特个性和超强能力的专属助理机器人。",
+                                "aid": "LNTaQUTpLXGCPj",
+                                "url": "https://chato.cn/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "智能聊天"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 105001001016,
+                                "name": "小悟空",
+                                "icon": "https://hao8.qhimg.com/t01815e491e81cab02b.png?size=200x200",
+                                "desc": "AI 对话助手和个人助理",
+                                "aid": "LtbXQkHmLXK4OT",
+                                "url": "https://wukong.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "智能对话"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 105001001017,
+                                "name": "AI对话鸭",
+                                "icon": "https://hao8.qhimg.com/t010514d2dc4a5183f5.png?size=160x160",
+                                "desc": "同时与10+ 个AI大模型进行对话，0门槛使用AI。",
+                                "aid": "KdTYQUTmLXKCQw",
+                                "url": "https://botvip.cn/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "智能聊天"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 105001001015,
+                                "name": "酷盖AI",
+                                "icon": "https://hao7.qhimg.com/t0118885663030ab807.png?size=100x100",
+                                "desc": "集成ChatGPT的智能聊天机器人。",
+                                "aid": "KtbcREPkLXz5Oj",
+                                "url": "https://gpt33.cn/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "聊天机器人"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "智能对话"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 105001001018,
+                                "name": "在问",
+                                "icon": "https://hao7.qhimg.com/t011a87d9f445c0aeec.png?size=128x128",
+                                "desc": "功能全面又免费的人工智能网站。",
+                                "aid": "LdPXRknlLXS6Oj",
+                                "url": "https://www.zaiwen.top/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "智能对话"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "绘画"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "写作助手"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "搜索"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "思维导图"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 106000000000,
+        "type": "item",
+        "title": "AI视频",
+        "icon": "",
+        "nav": [
+            {
+                "id": 106001000000,
+                "title": "AI视频",
+                "icon": "",
+                "nav": [
+                    {
+                        "id": 106001001000,
+                        "title": "AI视频",
+                        "icon": "",
+                        "nav": [
+                            {
+                                "id": 106001001012,
+                                "name": "鬼手剪辑",
+                                "icon": "https://hao7.qhimg.com/t012802be91fc5be5ee.png?size=80x80",
+                                "desc": "专业的视频翻译和去字幕软件。",
+                                "aid": "LdXUQ0roLXC7Oj",
+                                "url": "https://jollytoday.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "视频"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "翻译"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "字幕"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 106001001011,
+                                "name": "万彩AI",
+                                "icon": "https://hao8.qhimg.com/t016c552c196f7956da.jpg?size=100x100",
+                                "desc": "AI智能写作生成神器,照片数字人制作,AI短视频制作",
+                                "aid": "MtXWPUblLX75Pj",
+                                "url": "https://ai.kezhan365.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "ai换脸"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "ai短视频"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 106001001013,
+                                "name": "VAS视频加字幕",
+                                "icon": "https://hao8.qhimg.com/t01c211cf18c624151b.png?size=200x200",
+                                "desc": "AI一键视频加字幕、字幕翻译",
+                                "aid": "LtnYRUTkLXC7Pw",
+                                "url": "https://www.vaszimu.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "视频"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "字幕"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "翻译"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 106001001002,
+                                "name": "360AI短视频",
+                                "icon": "https://hao8.qhimg.com/t11148baf6100f05f4223c2ca0d.png?size=1000x1000",
+                                "desc": "AI推动内容营销数智化，赋能短视频营销全链路",
+                                "aid": "MNXXQUXsLnGCOj",
+                                "url": "https://mkt.360.cn/managepage/aidirector?src=dh_360_com",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "视频"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "文生视频"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "短视频"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 106001001001,
+                                "name": "有言",
+                                "icon": "https://hao7.qhimg.com/t11148baf61cb3be85104b76269.jpg?size=280x280",
+                                "desc": "3D数字人AI视频生成平台",
+                                "aid": "LtbXQkHnLnO5PD",
+                                "url": "https://www.youyan3d.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "AI数字人"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "视频生成"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 106001001003,
+                                "name": "快剪辑",
+                                "icon": "https://hao8.qhimg.com/t018fddc1dd6c5c3700.png?size=80x80",
+                                "desc": "好用的在线视频剪辑工具",
+                                "aid": "KATUPUbkLXvAPT",
+                                "url": "https://www.kuaijianji.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "AI视频"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "AI剪辑"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "视频处理"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 106001001004,
+                                "name": "腾讯智影",
+                                "icon": "https://hao8.qhimg.com/t01d5cfeb266916e2c3.jpg?size=160x160",
+                                "desc": "云端智能视频创作工具",
+                                "aid": "LdTaPkTjYXKCPj",
+                                "url": "https://zenvideo.qq.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "AI产品"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "AI视频创作"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 106001001005,
+                                "name": "秒创",
+                                "icon": "https://hao7.qhimg.com/t11148baf61faf4ac7b755e46aa.png?size=200x200",
+                                "desc": "AI视频创作，图文转视频,智能内容创作平台",
+                                "aid": "KtXVQEnjYHKCOw",
+                                "url": "https://aigc.yizhentv.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "AI产品"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "AIGC"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "AI视频创作"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "图片转视频"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 106001001006,
+                                "name": "度加",
+                                "icon": "https://hao7.qhimg.com/t01f69cd13962986ff4.png?size=80x80",
+                                "desc": "百度官方出品的AIGC创作平台。",
+                                "aid": "MdTaP0TjLX7DOj",
+                                "url": "https://aigc.baidu.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "百度"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "AIGC"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "视频"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 106001001007,
+                                "name": "D-human数字人",
+                                "icon": "https://hao7.qhimg.com/t0176107fdfa844d2a8.png?size=100x100",
+                                "desc": "通过数字人制作视频",
+                                "aid": "KtndRkToLXz6Ow",
+                                "url": "https://www.d-human.cn/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "AI产品"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "数字人"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "智能语音"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 106001001008,
+                                "name": "快转字幕",
+                                "icon": "https://hao8.qhimg.com/t0143f96bed2f1fcebe.png?size=100x100",
+                                "desc": "适用于为各种创作者提供字幕制作、学习资源、会议记录、字幕制作等场景。",
+                                "aid": "MdXcRUXnLXKAOw",
+                                "url": "https://www.kzzimu.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "翻译"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "字幕"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "会议"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "音频"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 106001001009,
+                                "name": "来画",
+                                "icon": "https://hao7.qhimg.com/t01b4017efd8456482d.jpg?size=640x640",
+                                "desc": "动画和数字人智能生成平台",
+                                "aid": "LNfXQkHmXnKBQD",
+                                "url": "https://www.laihua.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "AI产品"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "AIGC"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 106001001010,
+                                "name": "象寄翻译",
+                                "icon": "https://hao8.qhimg.com/t0139130eafb51f7896.jpg?size=80x80",
+                                "desc": "AI短视频翻译首发",
+                                "aid": "KdbXRETpLX74Pj",
+                                "url": "https://www.xiangjifanyi.com/home/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "视频编辑"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 106001001014,
+                                "name": "一起剪",
+                                "icon": "https://hao7.qhimg.com/t01fec7eee2c1b1780c.png?size=200x200",
+                                "desc": "短视频智能创作平台，人工智能自动生成脚本、图文成片。",
+                                "aid": "LtLaP0LnLXK3PT",
+                                "url": "https://www.yiqijian.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "视频"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "创作"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "图文转视频"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 106001001015,
+                                "name": "知作",
+                                "icon": "https://hao7.qhimg.com/t012436e884fa2d809d.png?size=120x120",
+                                "desc": "人工智能驱动的面向影视行业的次世代创作方式。",
+                                "aid": "KAfaPULsLXK3Pj",
+                                "url": "https://zizo.pro/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "视频"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "创作"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "短视频"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 106001001016,
+                                "name": "33字幕",
+                                "icon": "https://hao7.qhimg.com/t01d644bb48c2a09644.png",
+                                "desc": "AI自动加视频字幕，自动翻译字幕。",
+                                "aid": "LdjZQEbkLXG3PT",
+                                "url": "https://www.33subs.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "翻译"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "字幕"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 106001001017,
+                                "name": "闪剪",
+                                "icon": "https://hao8.qhimg.com/t01cc5e0120209369a6.png?size=64x64",
+                                "desc": "快速将图片、文章、直播等内容通过AI自动生成视频。",
+                                "aid": "LALbPUbkLXKDQD",
+                                "url": "https://shanjian.tv/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "视频"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 106001001018,
+                                "name": "WinkStudio",
+                                "icon": "https://hao8.qhimg.com/t01a7238d9f138f3c12.png?size=64x64",
+                                "desc": "美图旗下专业视频人像精修工具。",
+                                "aid": "LtbbQkHjLXS5QD",
+                                "url": "https://wink.meitu.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "视频"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 107000000000,
+        "type": "item",
+        "title": "AI音频",
+        "icon": "",
+        "nav": [
+            {
+                "id": 107001000000,
+                "title": "AI音频",
+                "icon": "",
+                "nav": [
+                    {
+                        "id": 107001001000,
+                        "title": "AI音频",
+                        "icon": "",
+                        "nav": [
+                            {
+                                "id": 107001001001,
+                                "name": "大饼AI变声",
+                                "icon": "https://hao8.qhimg.com/t0198d5d60aa1ae06be.png?size=84x84",
+                                "desc": "专业的在线变声工具，适用于游戏开黑、社交直播等场景。",
+                                "aid": "LNXUPkTlLXSAPD",
+                                "url": "https://dubbing.tech/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "音频"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "语音合成"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 107001001006,
+                                "name": "标贝悦读",
+                                "icon": "https://hao7.qhimg.com/t015ee0640131d2cd4b.png?size=70x70",
+                                "desc": "在线配音软件，一键文字转语音。",
+                                "aid": "KAnZQEnpLXC8Qw",
+                                "url": "https://yuedu.data-baker.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "音频"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "语音合成"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "视频"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 107001001007,
+                                "name": "BGM猫",
+                                "icon": "https://hao7.qhimg.com/t012465a6ed7ad8f905.png?size=100x100",
+                                "desc": "一键生成视频、播客配乐和片头音乐。",
+                                "aid": "LdfURUnnLXC8QD",
+                                "url": "https://bgmcat.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "音乐"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "音频"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 107001001008,
+                                "name": "团子AI",
+                                "icon": "https://hao8.qhimg.com/t01bbe73a9388ff2f44.png?size=200x200",
+                                "desc": "伴奏人声提取、任意乐器分离、无损升降掉。",
+                                "aid": "MdTdQkbkLXCDOT",
+                                "url": "https://tuanziai.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "音频"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 107001001009,
+                                "name": "音子AI",
+                                "icon": "https://hao7.qhimg.com/t01550b4d04a0ceb20c.png?size=180x180",
+                                "desc": "在线提取伴奏、分离人声、提取视频音乐。",
+                                "aid": "KdbVQUnkLXG7Ow",
+                                "url": "https://www.yinziai.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "音频"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 107001001010,
+                                "name": "歌词生成",
+                                "icon": "https://hao8.qhimg.com/t012b2e7458adc43dfd.png?size=64x64",
+                                "desc": "AI 自动生成歌词网站。",
+                                "aid": "LNTbQETkLXK6OT",
+                                "url": "https://wenxin.baidu.com/wenxin/pc/lyrics",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "音乐"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "歌词"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "音频"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "百度"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 107001001012,
+                                "name": "网易云音乐·X Studio",
+                                "icon": "https://hao8.qhimg.com/t01a7325eb1695e39e6.png?size=72x72",
+                                "desc": "网易云音乐与小冰智能联合推出的免费AI歌手音乐创作软件。",
+                                "aid": "KtPcQUjrLXK6QD",
+                                "url": "https://xstudio.music.163.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "音频"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "音乐"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "网易"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 107001001011,
+                                "name": "悦音配音",
+                                "icon": "https://hao7.qhimg.com/t01fddd38c3a03f7e61.png?size=100x100",
+                                "desc": "媲美真人的AI配音技术。",
+                                "aid": "KArcPknpLXK6Qw",
+                                "url": "https://yueyin.zhipianbang.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "音频"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "配音"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 107001001013,
+                                "name": "MotionSound",
+                                "icon": "https://hao7.qhimg.com/t018738b2f8c5746e63.png?size=120x120",
+                                "desc": "AI智能生成语音技术，简单易用的文本转语音工具。",
+                                "aid": "LtfXPUHmLXS6OD",
+                                "url": "https://motionsound.yoo-ai.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "音频"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "语音合成"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 107001001002,
+                                "name": "讯飞智作",
+                                "icon": "https://hao7.qhimg.com/t010c94abfc43de3e81.png?size=100x100",
+                                "desc": "AI转语音和配音工具",
+                                "aid": "KdHVRUnjX3O4OD",
+                                "url": "https://peiyin.xunfei.cn/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "AI主播"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "合成配音"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "短视频配音"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 107001001003,
+                                "name": "网易天音",
+                                "icon": "https://hao8.qhimg.com/t015c41fcb70a4b6942.png?size=100x100",
+                                "desc": "一站式AI音乐创作工具",
+                                "aid": "KtfUP0PkXnKCPw",
+                                "url": "https://tianyin.music.163.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "AI产品"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "音乐"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 107001001005,
+                                "name": "魔音工坊",
+                                "icon": "https://hao8.qhimg.com/t012ecebba27546b3ae.png?size=140x140",
+                                "desc": "先进的配音工具和高效多人协同创作工具。",
+                                "aid": "LtHaQEbjLXC8OT",
+                                "url": "https://www.moyin.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "音频"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "视频"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "剪辑"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "写作助手"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 107001001004,
+                                "name": "呱呱有声",
+                                "icon": "https://hao7.qhimg.com/t01b2f07f83773d5a66.png?size=100x100",
+                                "desc": "长音频内容生产AIGC开放平台",
+                                "aid": "MtHVPUHqLXC7PD",
+                                "url": "https://www.gstudios.com.cn/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "音频"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 108000000000,
+        "type": "item",
+        "title": "AI模型",
+        "icon": "",
+        "nav": [
+            {
+                "id": 108001000000,
+                "title": "AI模型",
+                "icon": "",
+                "nav": [
+                    {
+                        "id": 108001001000,
+                        "title": "AI模型",
+                        "icon": "",
+                        "nav": [
+                            {
+                                "id": 108001001001,
+                                "name": "盘古大模型",
+                                "icon": "https://hao7.qhimg.com/t01933429b569390f06.png?size=200x200",
+                                "desc": "华为云推出的面向行业的大模型。",
+                                "aid": "MdLZQkHnLXKCOD",
+                                "url": "https://www.huaweicloud.com/product/pangu.html",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "大模型"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "华为"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 108001001002,
+                                "name": "讯飞星火认知大模型",
+                                "icon": "https://hao8.qhimg.com/t010baae116cc0fead3.png?size=100x100",
+                                "desc": "拥有跨领域知识和语言理解能力，能够基于自然对话方式理解与执行任务。",
+                                "aid": "KdfbRkHrLX78OT",
+                                "url": "https://xinghuo.xfyun.cn/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "大模型"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "写作助手"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "办公"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "插件"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 108001001006,
+                                "name": "言犀",
+                                "icon": "https://hao8.qhimg.com/t0194d8db1df15b7d47.png?size=72x72",
+                                "desc": "京东智能人机交互平台，助力企业服务数智化转型。",
+                                "aid": "KtPUP0TnLXKAQw",
+                                "url": "https://yanxi.jd.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "智能对话"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "企业"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 108001001008,
+                                "name": "ChatGLM",
+                                "icon": "https://hao8.qhimg.com/t0179af576495189298.jpg?size=100x100",
+                                "desc": "由清华技术成果转化的公司智谱AI，开源GLM 系列模型的新成员。",
+                                "aid": "LdTYPUfsLX75Ow",
+                                "url": "https://chatglm.cn/detail",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "GLM-130B"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "ai大规模"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 108001001007,
+                                "name": "MiracleVision奇想智能",
+                                "icon": "https://hao7.qhimg.com/t0133764c36a013410a.png?size=200x200",
+                                "desc": "美图自研，一款懂美学的AI视觉大模型。",
+                                "aid": "LtPYP0bmLXKAQD",
+                                "url": "https://www.miraclevision.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "大模型"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "绘画"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 108001001009,
+                                "name": "千帆大模型平台",
+                                "icon": "https://hao8.qhimg.com/t0159d309a3d22e6a86.png?size=110x110",
+                                "desc": "提供全球领先的人工智能、大数据和云计算服务。",
+                                "aid": "KtTZPUTjLXK3OT",
+                                "url": "https://cloud.baidu.com/product/wenxinworkshop",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "大模型"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "百度"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 108001001010,
+                                "name": "昇思MindSpore",
+                                "icon": "https://hao8.qhimg.com/t0158b8d34fa52fbc1b.png?size=140x140",
+                                "desc": "华为开源自研AI深度学习框架。",
+                                "aid": "KtHVQkTrLXG5Qw",
+                                "url": "https://www.mindspore.cn/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "AI框架"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "深度学习"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 108001001012,
+                                "name": "曹植大语言模型",
+                                "icon": "https://hao8.qhimg.com/t01f00b4cbcfb31e80b.png?size=140x140",
+                                "desc": "垂直领域大语言模型",
+                                "aid": "LtPVPUbpLXKCOj",
+                                "url": "https://www.datagrand.com/products/aigc/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "大模型"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 108001001013,
+                                "name": "天壤小白",
+                                "icon": "https://hao8.qhimg.com/t01136602a93d31bc27.png?size=200x200",
+                                "desc": "为开发者和零编程基础人员轻松创建个性化的AI应用。",
+                                "aid": "KALWQEbrLXK3PD",
+                                "url": "https://www.tianrang.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "大模型"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 108001001011,
+                                "name": "百川大模型",
+                                "icon": "https://hao7.qhimg.com/t01d723347aa2b9983e.png?size=200x200",
+                                "desc": "可以和人类进行自然交流、解答问题、协助创作.",
+                                "aid": "MtnWQUHpLXCBPD",
+                                "url": "https://www.baichuan-ai.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "大模型"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "智能对话"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "搜狗"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 108001001014,
+                                "name": "应事AI",
+                                "icon": "https://hao7.qhimg.com/t016112e2cdadc1cede.png?size=192x192",
+                                "desc": "MiniMax推出的AI对话助理，帮助您高效写作、激发灵感、获取知识、做出决策．",
+                                "aid": "KAXURkHoLXG5Oj",
+                                "url": "https://yingshi-ai.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "大模型"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "智能对话"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 108001001015,
+                                "name": "Cephalon端脑",
+                                "icon": "https://hao8.qhimg.com/t01f52313c00a20a638.png?size=200x200",
+                                "desc": "将分散的计算资源进⾏整合和优化，为用户提供强⼤的计算能⼒⽀持。",
+                                "aid": "KATVPUbjLXK3Oj",
+                                "url": "https://cephalon.cloud/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "大模型"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 108001001017,
+                                "name": "孟子 GPT",
+                                "icon": "https://hao7.qhimg.com/t019ca0e2041cf44b94.png?size=200x200",
+                                "desc": "帮助用户完成特定场景中的多种工作任务。",
+                                "aid": "KtPZRUPrLXGCPT",
+                                "url": "https://www.langboat.com/portal/mengzi-gpt",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "大模型"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "智能对话"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 108001001016,
+                                "name": "ZelinAI",
+                                "icon": "https://hao8.qhimg.com/t01be616501314fbe3c.png?size=32x32",
+                                "desc": "零代码构建自己的AI应用",
+                                "aid": "LdbZQ0HmLXvAPj",
+                                "url": "https://zelinai.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "AI模型"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "小模型"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "AI应用"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 108001001004,
+                                "name": "商量大语言模型",
+                                "icon": "https://hao8.qhimg.com/t017027ffe27af4eae2.jpg?size=80x80",
+                                "desc": "商汤科技AI对话产品",
+                                "aid": "KALWQkrsLX73Pw",
+                                "url": "https://chat.sensetime.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "通用大模型"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "AI产品"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "AI对话"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 108001001003,
+                                "name": "腾讯混元大模型",
+                                "icon": "https://hao8.qhimg.com/t017bbf533287748bcc.png?size=80x80",
+                                "desc": "具备强大的中文创作能力，复杂语境下的逻辑推理能力，以及可靠的任务执行能力",
+                                "aid": "KtHdRUbnLXCDQw",
+                                "url": "https://hunyuan.tencent.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "大模型"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "腾讯"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 108001001005,
+                                "name": "有道智云AI开放平台",
+                                "icon": "https://hao8.qhimg.com/t015d960444f886e579.png?size=54x54",
+                                "desc": "为政府、企业和开发者提供稳定可靠的基础AI能力。",
+                                "aid": "KATYQUfoLXK3Pw",
+                                "url": "https://ai.youdao.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "大模型"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "开放平台"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "有道"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "网易"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 108001001018,
+                                "name": "山海大模型",
+                                "icon": "https://hao7.qhimg.com/t01c4a19a5012a4ce29.png?size=140x140",
+                                "desc": "拥有丰富的知识储备，涵盖科学、技术、文化、艺术、医疗、通识等领域。",
+                                "aid": "MtndQEjkLXKCOw",
+                                "url": "https://shanhai.unisound.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "大模型"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 108001001019,
+                                "name": "书生通用大模型体系",
+                                "icon": "https://hao8.qhimg.com/t013511077bbef32cc9.png?size=200x200",
+                                "desc": "定义任意任务和轻量级自适应融合",
+                                "aid": "MdnVPUHkLXKCOT",
+                                "url": "https://intern-ai.org.cn/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "大模型"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 109000000000,
+        "type": "item",
+        "title": "AI编程",
+        "icon": "",
+        "nav": [
+            {
+                "id": 109001000000,
+                "title": "AI编程",
+                "icon": "",
+                "nav": [
+                    {
+                        "id": 109001001000,
+                        "title": "AI编程",
+                        "icon": "",
+                        "nav": [
+                            {
+                                "id": 109001001004,
+                                "name": "iFlyCode",
+                                "icon": "https://hao7.qhimg.com/t0127335ca214d59608.png?size=60x60",
+                                "desc": "讯飞星火认知大模型智能编程助手。",
+                                "aid": "LdnVPUfrLX78Qw",
+                                "url": "https://iflycode.xfyun.cn/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "编程"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "开发"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "科大讯飞"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 109001001005,
+                                "name": "CodeGeeX",
+                                "icon": "https://hao8.qhimg.com/t01f8b281b759d78b6e.png?size=180x180",
+                                "desc": "基于大模型的全能的智能编程助手。",
+                                "aid": "LNTZQkPjLXG7PT",
+                                "url": "https://codegeex.cn/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "开发"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "编程"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "代码"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 109001001006,
+                                "name": "智谱AI",
+                                "icon": "https://hao8.qhimg.com/t015f3bf79788f86b07.jpg",
+                                "desc": "大模型MaaS开放平台",
+                                "aid": "KtXUPkHrLX73PT",
+                                "url": "https://open.bigmodel.cn/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "代码生成"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "AI开发"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "内容创作"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 109001001007,
+                                "name": "aiXcoder",
+                                "icon": "https://hao7.qhimg.com/t01e400ac77cfd03d43.png?size=200x200",
+                                "desc": "智能编程机器人助你高效开发,尽享编程乐趣.",
+                                "aid": "KAnYQUnlLXO6Ow",
+                                "url": "https://www.aixcoder.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "编程"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "代码"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 109001001008,
+                                "name": "Sky-code",
+                                "icon": "https://hao8.qhimg.com/t01bcb21c94dab5468e.png?size=120x120",
+                                "desc": "AI智能编程助手，轻松生成各种代码。",
+                                "aid": "KArZQ0PjLXO5QD",
+                                "url": "https://sky-code.singularity-ai.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "编程"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "代码"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 109001001009,
+                                "name": "代码小浣熊",
+                                "icon": "https://hao7.qhimg.com/t01fa0423ce3197c3a6.png?size=288x288",
+                                "desc": "商汤科技推出的智能AI编程助手.",
+                                "aid": "KdfZQULnLXS3QD",
+                                "url": "https://code.sensetime.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "编程"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 109001001002,
+                                "name": "通义灵码",
+                                "icon": "https://hao8.qhimg.com/t01df01871644b82185.png?size=200x200",
+                                "desc": "基于通义大模型的智能编程辅助工具。",
+                                "aid": "LdXaQUTkLXKCPD",
+                                "url": "https://tongyi.aliyun.com/lingma",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "编程"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "代码"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "开发"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "阿里云"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 109001001003,
+                                "name": "CodeFuse",
+                                "icon": "https://hao7.qhimg.com/t01cd2b8fd1626456f5.png?size=200x200",
+                                "desc": "蚂蚁自研的智能研发助手。",
+                                "aid": "LtTdRULkLXKAPj",
+                                "url": "https://codefuse.alipay.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "编程"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "开发"
+                                    },
+                                    {
+                                        "url": "",
+                                        "id": "代码"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 109001001001,
+                                "name": "Comate",
+                                "icon": "https://hao7.qhimg.com/t01c57fb3906828dddb.png?size=90x90",
+                                "desc": "百度旗下AI编程助手。",
+                                "aid": "KAPWQUbmLXW5Oj",
+                                "url": "https://comate.baidu.com/",
+                                "tags": [
+                                    {
+                                        "url": "",
+                                        "id": "编程"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -71,6 +71,7 @@ export interface IWebTag {
 export interface BaseNavItem {
   id: number
   title: string
+  type?: string
   icon: string
   collapsed?: boolean
   ownVisible?: boolean
