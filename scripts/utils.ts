@@ -333,8 +333,9 @@ export function writeTemplate({
     return loadingKey
   }
   const htmlTemplate = `
-  <!-- https://github.com/xjh22222228/nav -->
   <title>${settings.title}</title>
+  <meta name="googlebot" content="all">
+  <meta name="baiduspider" content="all">
   <meta property="og:title" content="${settings.title}" />
   <meta property="og:description" content="${settings.description}" />
   <meta property="og:type" content="website" />
