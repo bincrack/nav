@@ -1,0 +1,214 @@
+var log = [];
+var res = [];
+const ids = {
+	100001001001: 2,
+	101001001000: 3,
+	102000000000: 4,
+	103001001000: 5,
+	104001001000: 6,
+	105001001000: 8,
+	106001001000: 9,
+	107001001000: 10,
+	108001001000: 12,
+	109001001000: 13
+}
+const get_url = (item) => $.getJSON("https://ai.hao.360.com/api/v1/article/detail?id=" + item.aid, data => {
+	log.push(data);
+	if (data.errno == 0) {
+		item.url = data.data.url;
+		item.tags = data.data.tags.split(",").map(item => {
+			const tag = tags.filter((tag) => String(tag.name) === String(item));
+			if (tag && tag.length > 0) {
+				return tag[0];
+			}
+			console.log('not found tag: ' + item)
+			return {}
+		});
+		res.push(item);
+	}
+});
+
+const get_nav = (id) => {
+	if (!ids[id]) {
+		return;
+	}
+	log = [];
+	res = [];
+	$("._list_m6ic0_25:eq(" + ids[id] + ") a").map((x, y) => {
+		const id = $(y).attr("href").split("/")[2];
+	    const data = {
+	        "id": id + x,
+	        "name": $(y).find("span._name_1ve0d_49").text(),
+	        "icon": $(y).find("img").attr("src"),
+	        "desc": $(y).find("span._desc_1ve0d_50").text(),
+	        "aid": id
+	    }
+	    return get_url(data);
+	});
+}
+
+const tags = [
+    {"id":1, "name": "360智脑", "desc": "360智脑", "color": "#2db7f5", "isInner": false},
+    {"id":2, "name": "AI", "desc": "AI", "color": "#2db7f5", "isInner": false},
+    {"id":3, "name": "AIGC", "desc": "AIGC", "color": "#2db7f5", "isInner": false},
+    {"id":4, "name": "AI主播", "desc": "AI主播", "color": "#2db7f5", "isInner": false},
+    {"id":5, "name": "AI产品", "desc": "AI产品", "color": "#2db7f5", "isInner": false},
+    {"id":6, "name": "AI会议", "desc": "AI会议", "color": "#2db7f5", "isInner": false},
+    {"id":7, "name": "AI作画", "desc": "AI作画", "color": "#2db7f5", "isInner": false},
+    {"id":8, "name": "AI写作", "desc": "AI写作", "color": "#2db7f5", "isInner": false},
+    {"id":9, "name": "AI创作", "desc": "AI创作", "color": "#2db7f5", "isInner": false},
+    {"id":10, "name": "AI剪辑", "desc": "AI剪辑", "color": "#2db7f5", "isInner": false},
+    {"id":11, "name": "AI办公", "desc": "AI办公", "color": "#2db7f5", "isInner": false},
+    {"id":12, "name": "ai大规模", "desc": "ai大规模", "color": "#2db7f5", "isInner": false},
+    {"id":13, "name": "AI对话", "desc": "AI对话", "color": "#2db7f5", "isInner": false},
+    {"id":14, "name": "AI应用", "desc": "AI应用", "color": "#2db7f5", "isInner": false},
+    {"id":15, "name": "AI开发", "desc": "AI开发", "color": "#2db7f5", "isInner": false},
+    {"id":16, "name": "ai换脸", "desc": "ai换脸", "color": "#2db7f5", "isInner": false},
+    {"id":17, "name": "AI数字人", "desc": "AI数字人", "color": "#2db7f5", "isInner": false},
+    {"id":18, "name": "AI文案", "desc": "AI文案", "color": "#2db7f5", "isInner": false},
+    {"id":19, "name": "AI框架", "desc": "AI框架", "color": "#2db7f5", "isInner": false},
+    {"id":20, "name": "AI模型", "desc": "AI模型", "color": "#2db7f5", "isInner": false},
+    {"id":21, "name": "ai短视频", "desc": "ai短视频", "color": "#2db7f5", "isInner": false},
+    {"id":22, "name": "AI绘画", "desc": "AI绘画", "color": "#2db7f5", "isInner": false},
+    {"id":23, "name": "AI续写", "desc": "AI续写", "color": "#2db7f5", "isInner": false},
+    {"id":24, "name": "AI视频", "desc": "AI视频", "color": "#2db7f5", "isInner": false},
+    {"id":25, "name": "AI视频创作", "desc": "AI视频创作", "color": "#2db7f5", "isInner": false},
+    {"id":26, "name": "AI设计", "desc": "AI设计", "color": "#2db7f5", "isInner": false},
+    {"id":27, "name": "ChatGPT", "desc": "ChatGPT", "color": "#2db7f5", "isInner": false},
+    {"id":28, "name": "Excel", "desc": "Excel", "color": "#2db7f5", "isInner": false},
+    {"id":29, "name": "GLM-130B", "desc": "GLM-130B", "color": "#2db7f5", "isInner": false},
+    {"id":30, "name": "logo生成", "desc": "logo生成", "color": "#2db7f5", "isInner": false},
+    {"id":31, "name": "PPT", "desc": "PPT", "color": "#2db7f5", "isInner": false},
+    {"id":32, "name": "PPT工具", "desc": "PPT工具", "color": "#2db7f5", "isInner": false},
+    {"id":33, "name": "WPS", "desc": "WPS", "color": "#2db7f5", "isInner": false},
+    {"id":34, "name": "二次元", "desc": "二次元", "color": "#2db7f5", "isInner": false},
+    {"id":35, "name": "产品", "desc": "产品", "color": "#2db7f5", "isInner": false},
+    {"id":36, "name": "产品设计", "desc": "产品设计", "color": "#2db7f5", "isInner": false},
+    {"id":37, "name": "人工智能", "desc": "人工智能", "color": "#2db7f5", "isInner": false},
+    {"id":38, "name": "代码", "desc": "代码", "color": "#2db7f5", "isInner": false},
+    {"id":39, "name": "代码生成", "desc": "代码生成", "color": "#2db7f5", "isInner": false},
+    {"id":40, "name": "企业", "desc": "企业", "color": "#2db7f5", "isInner": false},
+    {"id":41, "name": "会议", "desc": "会议", "color": "#2db7f5", "isInner": false},
+    {"id":42, "name": "修复", "desc": "修复", "color": "#2db7f5", "isInner": false},
+    {"id":43, "name": "公文写作", "desc": "公文写作", "color": "#2db7f5", "isInner": false},
+    {"id":44, "name": "内容创作", "desc": "内容创作", "color": "#2db7f5", "isInner": false},
+    {"id":45, "name": "写作助手", "desc": "写作助手", "color": "#2db7f5", "isInner": false},
+    {"id":46, "name": "创作", "desc": "创作", "color": "#2db7f5", "isInner": false},
+    {"id":47, "name": "创作平台", "desc": "创作平台", "color": "#2db7f5", "isInner": false},
+    {"id":48, "name": "创意", "desc": "创意", "color": "#2db7f5", "isInner": false},
+    {"id":49, "name": "别墅设计", "desc": "别墅设计", "color": "#2db7f5", "isInner": false},
+    {"id":50, "name": "剪辑", "desc": "剪辑", "color": "#2db7f5", "isInner": false},
+    {"id":51, "name": "办公", "desc": "办公", "color": "#2db7f5", "isInner": false},
+    {"id":52, "name": "华为", "desc": "华为", "color": "#2db7f5", "isInner": false},
+    {"id":53, "name": "协作", "desc": "协作", "color": "#2db7f5", "isInner": false},
+    {"id":54, "name": "发散思维", "desc": "发散思维", "color": "#2db7f5", "isInner": false},
+    {"id":55, "name": "合成配音", "desc": "合成配音", "color": "#2db7f5", "isInner": false},
+    {"id":56, "name": "图文转视频", "desc": "图文转视频", "color": "#2db7f5", "isInner": false},
+    {"id":57, "name": "图片", "desc": "图片", "color": "#2db7f5", "isInner": false},
+    {"id":58, "name": "图片处理", "desc": "图片处理", "color": "#2db7f5", "isInner": false},
+    {"id":59, "name": "图片生成", "desc": "图片生成", "color": "#2db7f5", "isInner": false},
+    {"id":60, "name": "图片编辑", "desc": "图片编辑", "color": "#2db7f5", "isInner": false},
+    {"id":61, "name": "图片转视频", "desc": "图片转视频", "color": "#2db7f5", "isInner": false},
+    {"id":62, "name": "在线文档", "desc": "在线文档", "color": "#2db7f5", "isInner": false},
+    {"id":63, "name": "大模型", "desc": "大模型", "color": "#2db7f5", "isInner": false},
+    {"id":64, "name": "字幕", "desc": "字幕", "color": "#2db7f5", "isInner": false},
+    {"id":65, "name": "字节跳动", "desc": "字节跳动", "color": "#2db7f5", "isInner": false},
+    {"id":66, "name": "家居装修", "desc": "家居装修", "color": "#2db7f5", "isInner": false},
+    {"id":67, "name": "对话", "desc": "对话", "color": "#2db7f5", "isInner": false},
+    {"id":68, "name": "小模型", "desc": "小模型", "color": "#2db7f5", "isInner": false},
+    {"id":69, "name": "小红书", "desc": "小红书", "color": "#2db7f5", "isInner": false},
+    {"id":70, "name": "工具", "desc": "工具", "color": "#2db7f5", "isInner": false},
+    {"id":71, "name": "工具箱", "desc": "工具箱", "color": "#2db7f5", "isInner": false},
+    {"id":72, "name": "建筑", "desc": "建筑", "color": "#2db7f5", "isInner": false},
+    {"id":73, "name": "开发", "desc": "开发", "color": "#2db7f5", "isInner": false},
+    {"id":74, "name": "开放平台", "desc": "开放平台", "color": "#2db7f5", "isInner": false},
+    {"id":75, "name": "思维导图", "desc": "思维导图", "color": "#2db7f5", "isInner": false},
+    {"id":76, "name": "思维导航", "desc": "思维导航", "color": "#2db7f5", "isInner": false},
+    {"id":77, "name": "抠图", "desc": "抠图", "color": "#2db7f5", "isInner": false},
+    {"id":78, "name": "招聘", "desc": "招聘", "color": "#2db7f5", "isInner": false},
+    {"id":79, "name": "提示词", "desc": "提示词", "color": "#2db7f5", "isInner": false},
+    {"id":80, "name": "插件", "desc": "插件", "color": "#2db7f5", "isInner": false},
+    {"id":81, "name": "搜狐", "desc": "搜狐", "color": "#2db7f5", "isInner": false},
+    {"id":82, "name": "搜狗", "desc": "搜狗", "color": "#2db7f5", "isInner": false},
+    {"id":83, "name": "搜索", "desc": "搜索", "color": "#2db7f5", "isInner": false},
+    {"id":84, "name": "效率提升", "desc": "效率提升", "color": "#2db7f5", "isInner": false},
+    {"id":85, "name": "数字人", "desc": "数字人", "color": "#2db7f5", "isInner": false},
+    {"id":86, "name": "数据", "desc": "数据", "color": "#2db7f5", "isInner": false},
+    {"id":87, "name": "文案生成", "desc": "文案生成", "color": "#2db7f5", "isInner": false},
+    {"id":88, "name": "文档", "desc": "文档", "color": "#2db7f5", "isInner": false},
+    {"id":89, "name": "文生视频", "desc": "文生视频", "color": "#2db7f5", "isInner": false},
+    {"id":90, "name": "文章生成", "desc": "文章生成", "color": "#2db7f5", "isInner": false},
+    {"id":91, "name": "新媒体", "desc": "新媒体", "color": "#2db7f5", "isInner": false},
+    {"id":92, "name": "智能写作", "desc": "智能写作", "color": "#2db7f5", "isInner": false},
+    {"id":93, "name": "智能创作", "desc": "智能创作", "color": "#2db7f5", "isInner": false},
+    {"id":94, "name": "智能对话", "desc": "智能对话", "color": "#2db7f5", "isInner": false},
+    {"id":95, "name": "智能编写", "desc": "智能编写", "color": "#2db7f5", "isInner": false},
+    {"id":96, "name": "智能聊天", "desc": "智能聊天", "color": "#2db7f5", "isInner": false},
+    {"id":97, "name": "智能语音", "desc": "智能语音", "color": "#2db7f5", "isInner": false},
+    {"id":98, "name": "智能问答", "desc": "智能问答", "color": "#2db7f5", "isInner": false},
+    {"id":99, "name": "有道", "desc": "有道", "color": "#2db7f5", "isInner": false},
+    {"id":100, "name": "服装", "desc": "服装", "color": "#2db7f5", "isInner": false},
+    {"id":101, "name": "歌词", "desc": "歌词", "color": "#2db7f5", "isInner": false},
+    {"id":102, "name": "求职", "desc": "求职", "color": "#2db7f5", "isInner": false},
+    {"id":103, "name": "深度学习", "desc": "深度学习", "color": "#2db7f5", "isInner": false},
+    {"id":104, "name": "游戏", "desc": "游戏", "color": "#2db7f5", "isInner": false},
+    {"id":105, "name": "火龙果", "desc": "火龙果", "color": "#2db7f5", "isInner": false},
+    {"id":106, "name": "电商", "desc": "电商", "color": "#2db7f5", "isInner": false},
+    {"id":107, "name": "电子商务", "desc": "电子商务", "color": "#2db7f5", "isInner": false},
+    {"id":108, "name": "画像处理", "desc": "画像处理", "color": "#2db7f5", "isInner": false},
+    {"id":109, "name": "百度", "desc": "百度", "color": "#2db7f5", "isInner": false},
+    {"id":110, "name": "短视频", "desc": "短视频", "color": "#2db7f5", "isInner": false},
+    {"id":111, "name": "短视频配音", "desc": "短视频配音", "color": "#2db7f5", "isInner": false},
+    {"id":112, "name": "科大讯飞", "desc": "科大讯飞", "color": "#2db7f5", "isInner": false},
+    {"id":113, "name": "程序开发", "desc": "程序开发", "color": "#2db7f5", "isInner": false},
+    {"id":114, "name": "简历", "desc": "简历", "color": "#2db7f5", "isInner": false},
+    {"id":115, "name": "绘画", "desc": "绘画", "color": "#2db7f5", "isInner": false},
+    {"id":116, "name": "编程", "desc": "编程", "color": "#2db7f5", "isInner": false},
+    {"id":117, "name": "网易", "desc": "网易", "color": "#2db7f5", "isInner": false},
+    {"id":118, "name": "美图", "desc": "美图", "color": "#2db7f5", "isInner": false},
+    {"id":119, "name": "翻译", "desc": "翻译", "color": "#2db7f5", "isInner": false},
+    {"id":120, "name": "聊天机器人", "desc": "聊天机器人", "color": "#2db7f5", "isInner": false},
+    {"id":121, "name": "腾讯", "desc": "腾讯", "color": "#2db7f5", "isInner": false},
+    {"id":122, "name": "艺术", "desc": "艺术", "color": "#2db7f5", "isInner": false},
+    {"id":123, "name": "营销", "desc": "营销", "color": "#2db7f5", "isInner": false},
+    {"id":124, "name": "表格", "desc": "表格", "color": "#2db7f5", "isInner": false},
+    {"id":125, "name": "视频", "desc": "视频", "color": "#2db7f5", "isInner": false},
+    {"id":126, "name": "视频会议", "desc": "视频会议", "color": "#2db7f5", "isInner": false},
+    {"id":127, "name": "视频处理", "desc": "视频处理", "color": "#2db7f5", "isInner": false},
+    {"id":128, "name": "视频生成", "desc": "视频生成", "color": "#2db7f5", "isInner": false},
+    {"id":129, "name": "视频编辑", "desc": "视频编辑", "color": "#2db7f5", "isInner": false},
+    {"id":130, "name": "设计", "desc": "设计", "color": "#2db7f5", "isInner": false},
+    {"id":131, "name": "证件照", "desc": "证件照", "color": "#2db7f5", "isInner": false},
+    {"id":132, "name": "语音合成", "desc": "语音合成", "color": "#2db7f5", "isInner": false},
+    {"id":133, "name": "语音识别", "desc": "语音识别", "color": "#2db7f5", "isInner": false},
+    {"id":134, "name": "运营", "desc": "运营", "color": "#2db7f5", "isInner": false},
+    {"id":135, "name": "通用大模型", "desc": "通用大模型", "color": "#2db7f5", "isInner": false},
+    {"id":136, "name": "配音", "desc": "配音", "color": "#2db7f5", "isInner": false},
+    {"id":137, "name": "问答创作", "desc": "问答创作", "color": "#2db7f5", "isInner": false},
+    {"id":138, "name": "阅读", "desc": "阅读", "color": "#2db7f5", "isInner": false},
+    {"id":139, "name": "阿里云", "desc": "阿里云", "color": "#2db7f5", "isInner": false},
+    {"id":140, "name": "阿里巴巴", "desc": "阿里巴巴", "color": "#2db7f5", "isInner": false},
+    {"id":141, "name": "音乐", "desc": "音乐", "color": "#2db7f5", "isInner": false},
+    {"id":142, "name": "音频", "desc": "音频", "color": "#2db7f5", "isInner": false},
+    {
+        "id": -1,
+        "name": "中文",
+        "color": "#2db7f5",
+        "desc": "系统内置不可删除",
+        "isInner": true
+    },
+    {
+        "id": -2,
+        "name": "英文",
+        "color": "#f50",
+        "desc": "系统内置不可删除",
+        "isInner": true
+    },
+    {
+        "id": -3,
+        "name": "GitHub",
+        "color": "#108ee9",
+        "desc": "系统内置不可删除",
+        "isInner": true
+    }
+]
