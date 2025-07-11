@@ -1,0 +1,630 @@
+[
+    {
+        "id": "LAPVQEboLXC3Pw0",
+        "name": "万能小in",
+        "icon": "https://hao8.qhimg.com/t11148baf612d74e3b5ce73e498.png?size=200x200",
+        "desc": "AI长文写作专家,3分钟2万字",
+        "aid": "LAPVQEboLXC3Pw",
+        "url": "https://xiaoin.com.cn/",
+        "tags": [
+            {
+                "id": 45,
+                "name": "写作助手",
+                "desc": "写作助手",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 51,
+                "name": "办公",
+                "desc": "办公",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "MNPYP0XmLX77Oj2",
+        "name": "火龙果",
+        "icon": "https://hao8.qhimg.com/t016b3294eee269cf49.png?size=100x100",
+        "desc": "一站式AI智能写作产品，帮你轻松写作，大大提高效率。",
+        "aid": "MNPYP0XmLX77Oj",
+        "url": "https://www.mypitaya.com/",
+        "tags": [
+            {
+                "id": 105,
+                "name": "火龙果",
+                "desc": "火龙果",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 45,
+                "name": "写作助手",
+                "desc": "写作助手",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 8,
+                "name": "AI写作",
+                "desc": "AI写作",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 62,
+                "name": "在线文档",
+                "desc": "在线文档",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LNjWQUTkLX77OD1",
+        "name": "Effidit",
+        "icon": "https://hao7.qhimg.com/t01d6eb79bc50620002.png?size=72x72",
+        "desc": "腾讯 AI Lab 研发的智能创作助手。",
+        "aid": "LNjWQUTkLX77OD",
+        "url": "https://effidit.qq.com/",
+        "tags": [
+            {
+                "id": 45,
+                "name": "写作助手",
+                "desc": "写作助手",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 121,
+                "name": "腾讯",
+                "desc": "腾讯",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 8,
+                "name": "AI写作",
+                "desc": "AI写作",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "MtrXP0LqLX75QD3",
+        "name": "有道写作",
+        "icon": "https://hao7.qhimg.com/t0162ae0a8bfa3c2fa1.jpg?size=81x80",
+        "desc": "更懂中国人的英文写作神器",
+        "aid": "MtrXP0LqLX75QD",
+        "url": "https://write.youdao.com/",
+        "tags": [
+            {
+                "id": 99,
+                "name": "有道",
+                "desc": "有道",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {}
+        ]
+    },
+    {
+        "id": "LNbZPUPjLXCAPT11",
+        "name": "美编",
+        "icon": "https://hao7.qhimg.com/t017306a8fca8b075ee.png?size=70x70",
+        "desc": "免费、高效的公众号运营工具。",
+        "aid": "LNbZPUPjLXCAPT",
+        "url": "https://www.mbian.com/",
+        "tags": [
+            {
+                "id": 91,
+                "name": "新媒体",
+                "desc": "新媒体",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 123,
+                "name": "营销",
+                "desc": "营销",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 45,
+                "name": "写作助手",
+                "desc": "写作助手",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LAjUP0XmYHO8Ow6",
+        "name": "HeyFriday",
+        "icon": "https://hao8.qhimg.com/t013e806fc289ef7a6b.png?size=100x100",
+        "desc": "智能AI写作工具",
+        "aid": "LAjUP0XmYHO8Ow",
+        "url": "https://www.heyfriday.cn/",
+        "tags": [
+            {
+                "id": 92,
+                "name": "智能写作",
+                "desc": "智能写作",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 8,
+                "name": "AI写作",
+                "desc": "AI写作",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 23,
+                "name": "AI续写",
+                "desc": "AI续写",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KdXYQkLmYnO7PT4",
+        "name": "创作王",
+        "icon": "https://hao7.qhimg.com/t019855536c09698ec5.png?size=100x100",
+        "desc": "一键创作营销内容",
+        "aid": "KdXYQkLmYnO7PT",
+        "url": "https://aiapp.cc/",
+        "tags": [
+            {
+                "id": 44,
+                "name": "内容创作",
+                "desc": "内容创作",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 98,
+                "name": "智能问答",
+                "desc": "智能问答",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 95,
+                "name": "智能编写",
+                "desc": "智能编写",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 137,
+                "name": "问答创作",
+                "desc": "问答创作",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "MNPbPUTkLX78Oj8",
+        "name": "WPS AI",
+        "icon": "https://hao7.qhimg.com/t0148af21789be87ad0.png?size=200x200",
+        "desc": "企业智能办公助手",
+        "aid": "MNPbPUTkLX78Oj",
+        "url": "https://ai.wps.cn/",
+        "tags": [
+            {
+                "id": 45,
+                "name": "写作助手",
+                "desc": "写作助手",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 33,
+                "name": "WPS",
+                "desc": "WPS",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 51,
+                "name": "办公",
+                "desc": "办公",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 84,
+                "name": "效率提升",
+                "desc": "效率提升",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KAjcQUTmLX75Oj13",
+        "name": "笔灵AI",
+        "icon": "https://hao7.qhimg.com/t015e12c1d8bb085757.jpg?size=100x100",
+        "desc": "多场景全覆盖AI创作型内容生成",
+        "aid": "KAjcQUTmLX75Oj",
+        "url": "https://ibiling.cn/",
+        "tags": [
+            {
+                "id": 8,
+                "name": "AI写作",
+                "desc": "AI写作",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 27,
+                "name": "ChatGPT",
+                "desc": "ChatGPT",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 18,
+                "name": "AI文案",
+                "desc": "AI文案",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LtLWPkPoLXC5PT17",
+        "name": "魔法AI",
+        "icon": "https://hao7.qhimg.com/t017778e2b31c24303d.png",
+        "desc": "跨境电商营销创意生成工具。",
+        "aid": "LtLWPkPoLXC5PT",
+        "url": "https://www.mofaai.com.cn/",
+        "tags": [
+            {
+                "id": 106,
+                "name": "电商",
+                "desc": "电商",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 123,
+                "name": "营销",
+                "desc": "营销",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 45,
+                "name": "写作助手",
+                "desc": "写作助手",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KdrUQETmLXCAPj9",
+        "name": "内容神器",
+        "icon": "https://hao8.qhimg.com/t0199b590ea4c957195.png?size=40x40",
+        "desc": "以大数据支持内容工作，及时发现热点、搜索素材、选题分析。",
+        "aid": "KdrUQETmLXCAPj",
+        "url": "https://www.5ce.com/",
+        "tags": [
+            {
+                "id": 91,
+                "name": "新媒体",
+                "desc": "新媒体",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 134,
+                "name": "运营",
+                "desc": "运营",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 123,
+                "name": "营销",
+                "desc": "营销",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 45,
+                "name": "写作助手",
+                "desc": "写作助手",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LtHXP0PoLX36OT7",
+        "name": "多种草AI",
+        "icon": "https://hao8.qhimg.com/t01d9098e3ffff5b9c5.png?size=120x120",
+        "desc": "AI生成小红书各类文案",
+        "aid": "LtHXP0PoLX36OT",
+        "url": "https://duozhongcao.com/",
+        "tags": [
+            {
+                "id": 9,
+                "name": "AI创作",
+                "desc": "AI创作",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 69,
+                "name": "小红书",
+                "desc": "小红书",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "MdPaPUPrLXC3OT15",
+        "name": "轻松鲨",
+        "icon": "https://hao7.qhimg.com/t017c7543017ce7c0dd.png?size=160x160",
+        "desc": "与AI连续对话聊天，帮你解答各种疑问。",
+        "aid": "MdPaPUPrLXC3OT",
+        "url": "https://www.qingsongsha.com/",
+        "tags": [
+            {
+                "id": 120,
+                "name": "聊天机器人",
+                "desc": "聊天机器人",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 45,
+                "name": "写作助手",
+                "desc": "写作助手",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 123,
+                "name": "营销",
+                "desc": "营销",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 51,
+                "name": "办公",
+                "desc": "办公",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 84,
+                "name": "效率提升",
+                "desc": "效率提升",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KtHdPkrmLX7BOD10",
+        "name": "博特妙笔",
+        "icon": "https://hao8.qhimg.com/t012199124743116099.png?size=70x70",
+        "desc": "集查、写、审、学一体的在线公文写作神器",
+        "aid": "KtHdPkrmLX7BOD",
+        "url": "https://botsmart.net/",
+        "tags": [
+            {
+                "id": 45,
+                "name": "写作助手",
+                "desc": "写作助手",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 43,
+                "name": "公文写作",
+                "desc": "公文写作",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LtHZP0PrYHO7Pj5",
+        "name": "Giiso写作机器人",
+        "icon": "https://hao8.qhimg.com/t014a633c4055674240.png?size=100x100",
+        "desc": "选、写、改、编、发全流程智能化，人机协作快速出稿。",
+        "aid": "LtHZP0PrYHO7Pj",
+        "url": "https://www.giiso.com/",
+        "tags": [
+            {
+                "id": 87,
+                "name": "文案生成",
+                "desc": "文案生成",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 8,
+                "name": "AI写作",
+                "desc": "AI写作",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 90,
+                "name": "文章生成",
+                "desc": "文章生成",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LNPbQkLrLXG3OD19",
+        "name": "Verse",
+        "icon": "https://hao7.qhimg.com/t01f04f7a1d2b468729.png?size=160x160",
+        "desc": "印象笔记旗下团队推出的AI写作和文档工具。",
+        "aid": "LNPbQkLrLXG3OD",
+        "url": "https://verse.app.yinxiang.com/product/",
+        "tags": [
+            {
+                "id": 45,
+                "name": "写作助手",
+                "desc": "写作助手",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 51,
+                "name": "办公",
+                "desc": "办公",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LdnXQkHlLX7BOT14",
+        "name": "极简智能王",
+        "icon": "https://hao7.qhimg.com/t0167fd37ac1c9f472d.png?size=200x200",
+        "desc": "提供一站式AI创作工具，提高极简智能效率。",
+        "aid": "LdnXQkHlLX7BOT",
+        "url": "https://www.jijianzn.com/",
+        "tags": [
+            {
+                "id": 45,
+                "name": "写作助手",
+                "desc": "写作助手",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 115,
+                "name": "绘画",
+                "desc": "绘画",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 123,
+                "name": "营销",
+                "desc": "营销",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 46,
+                "name": "创作",
+                "desc": "创作",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 119,
+                "name": "翻译",
+                "desc": "翻译",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 113,
+                "name": "程序开发",
+                "desc": "程序开发",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "MtLUQEjjLXG3Ow16",
+        "name": "魔撰写作",
+        "icon": "https://hao7.qhimg.com/t01e339fc0b7d92cd91.png?size=180x180",
+        "desc": "激发创意灵感，高效写出个性化内容。",
+        "aid": "MtLUQEjjLXG3Ow",
+        "url": "https://x.moyin.com/",
+        "tags": [
+            {
+                "id": 45,
+                "name": "写作助手",
+                "desc": "写作助手",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 123,
+                "name": "营销",
+                "desc": "营销",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 91,
+                "name": "新媒体",
+                "desc": "新媒体",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KtPWQkXlLXCBPw18",
+        "name": "AI-DOG",
+        "icon": "https://hao7.qhimg.com/t015211539561e442a2.png?size=200x200",
+        "desc": "适合国内用户的AI创作应用平台",
+        "aid": "KtPWQkXlLXCBPw",
+        "url": "https://www.ai-dog.net/",
+        "tags": [
+            {
+                "id": 45,
+                "name": "写作助手",
+                "desc": "写作助手",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 123,
+                "name": "营销",
+                "desc": "营销",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LNbXQEbjLX7BOw12",
+        "name": "奕写",
+        "icon": "https://hao7.qhimg.com/t012b35ccb99be8f253.png?size=200x200",
+        "desc": "内容创作者的写作神器",
+        "aid": "LNbXQEbjLX7BOw",
+        "url": "https://writing.yuntianyi.com/",
+        "tags": [
+            {
+                "id": 45,
+                "name": "写作助手",
+                "desc": "写作助手",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 3,
+                "name": "AIGC",
+                "desc": "AIGC",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    }
+]

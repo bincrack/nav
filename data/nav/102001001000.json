@@ -1,0 +1,570 @@
+[
+    {
+        "id": "KtHaQkLkLXG4Pw4",
+        "name": "Pixso AI",
+        "icon": "https://hao7.qhimg.com/t0125f99c54a3795ead.png?size=80x80",
+        "desc": "国产在线设计工具Pixso的内置AI助手，支持AI文生图、AI对话、AI设计等。",
+        "aid": "KtHaQkLkLXG4Pw",
+        "url": "https://pixso.cn/",
+        "tags": [
+            {
+                "id": 130,
+                "name": "设计",
+                "desc": "设计",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 53,
+                "name": "协作",
+                "desc": "协作",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 115,
+                "name": "绘画",
+                "desc": "绘画",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 94,
+                "name": "智能对话",
+                "desc": "智能对话",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KAfWP0PkLXC4QD3",
+        "name": "标智客",
+        "icon": "https://hao7.qhimg.com/t01cb3453abf8ad7b38.png?size=200x200",
+        "desc": "一键生成Logo和VI视觉形象识别系统",
+        "aid": "KAfWP0PkLXC4QD",
+        "url": "https://www.logomaker.com.cn/",
+        "tags": [
+            {
+                "id": 130,
+                "name": "设计",
+                "desc": "设计",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 51,
+                "name": "办公",
+                "desc": "办公",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KdHVREfpLXG5OD1",
+        "name": "智绘设计",
+        "icon": "https://hao8.qhimg.com/t0102110de7b0cd5dae.png?size=100x100",
+        "desc": "腾讯推出的素材智能化设计生产平台",
+        "aid": "KdHVREfpLXG5OD",
+        "url": "https://taishan.qq.com/brand/",
+        "tags": [
+            {
+                "id": 130,
+                "name": "设计",
+                "desc": "设计",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 121,
+                "name": "腾讯",
+                "desc": "腾讯",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 51,
+                "name": "办公",
+                "desc": "办公",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KdbXQkblLX75PT6",
+        "name": "标小智",
+        "icon": "https://hao7.qhimg.com/t014d705fc97dce0c64.jpg?size=100x100",
+        "desc": "智能LOGO设计生成器，人工智能为您在线LOGO设计，生成企业VI，打造个性品牌！",
+        "aid": "KdbXQkblLX75PT",
+        "url": "https://www.logosc.cn/",
+        "tags": [
+            {
+                "id": 30,
+                "name": "logo生成",
+                "desc": "logo生成",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 93,
+                "name": "智能创作",
+                "desc": "智能创作",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KAjWQEXpLX74PT13",
+        "name": "模袋云",
+        "icon": "https://hao7.qhimg.com/t016e70be8fd6461893.jpg?size=101x101",
+        "desc": "快来设计你的理想住宅",
+        "aid": "KAjWQEXpLX74PT",
+        "url": "https://www.modaiyun.com/",
+        "tags": [
+            {
+                "id": 49,
+                "name": "别墅设计",
+                "desc": "别墅设计",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 26,
+                "name": "AI设计",
+                "desc": "AI设计",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LdPVRUnqLXS6QD0",
+        "name": "美图设计室",
+        "icon": "https://hao7.qhimg.com/t011a631d76585f6af4.png?size=120x120",
+        "desc": "美图秀秀旗下的智能设计在线协作平台。",
+        "aid": "LdPVRUnqLXS6QD",
+        "url": "https://www.designkit.com/",
+        "tags": [
+            {
+                "id": 130,
+                "name": "设计",
+                "desc": "设计",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 58,
+                "name": "图片处理",
+                "desc": "图片处理",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 118,
+                "name": "美图",
+                "desc": "美图",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LNTcRkboLXK7QD7",
+        "name": "晨羽智云",
+        "icon": "https://hao8.qhimg.com/t01ab7c6347e8c8c454.png?size=200x200",
+        "desc": "绘制故事中的人物和时刻，以及领先的艺术和其他模型。",
+        "aid": "LNTcRkboLXK7QD",
+        "url": "https://www.cyuai.com/",
+        "tags": [
+            {
+                "id": 115,
+                "name": "绘画",
+                "desc": "绘画",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 106,
+                "name": "电商",
+                "desc": "电商",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 123,
+                "name": "营销",
+                "desc": "营销",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 104,
+                "name": "游戏",
+                "desc": "游戏",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LALVRkroLXK4PD2",
+        "name": "AI智绘",
+        "icon": "https://hao7.qhimg.com/t01bac8e08956044b50.png?size=80x80",
+        "desc": "服装设计款式AI生成软件。",
+        "aid": "LALVRkroLXK4PD",
+        "url": "https://www.pop-fashion.com/aidraw",
+        "tags": [
+            {
+                "id": 130,
+                "name": "设计",
+                "desc": "设计",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 115,
+                "name": "绘画",
+                "desc": "绘画",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 100,
+                "name": "服装",
+                "desc": "服装",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 108,
+                "name": "画像处理",
+                "desc": "画像处理",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "MNXVQ0jnLXOCQD18",
+        "name": "酷家乐AI",
+        "icon": "https://hao8.qhimg.com/t011cc01b70fddcabaa.png?size=110x110",
+        "desc": "功能强大的AI家居设计软件。",
+        "aid": "MNXVQ0jnLXOCQD",
+        "url": "https://www.kujiale.com/activities/AI-kujiale",
+        "tags": [
+            {
+                "id": 130,
+                "name": "设计",
+                "desc": "设计",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 66,
+                "name": "家居装修",
+                "desc": "家居装修",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LtrYQ0nkYHKCPD12",
+        "name": "即时设计",
+        "icon": "https://hao8.qhimg.com/t0145bdf3ba444a105a.jpg?size=640x640",
+        "desc": "一款可在线使用的「专业 UI 设计工具」 ",
+        "aid": "LtrYQ0nkYHKCPD",
+        "url": "https://js.design/",
+        "tags": [
+            {
+                "id": 5,
+                "name": "AI产品",
+                "desc": "AI产品",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 26,
+                "name": "AI设计",
+                "desc": "AI设计",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KAHVP0fnLXKCPj16",
+        "name": "千面AI模特",
+        "icon": "https://hao7.qhimg.com/t0101470e29f9978cf9.png?size=72x72",
+        "desc": "电商模特图生成工具。",
+        "aid": "KAHVP0fnLXKCPj",
+        "url": "https://aiqianmian.com/",
+        "tags": [
+            {
+                "id": 115,
+                "name": "绘画",
+                "desc": "绘画",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 130,
+                "name": "设计",
+                "desc": "设计",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 106,
+                "name": "电商",
+                "desc": "电商",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 123,
+                "name": "营销",
+                "desc": "营销",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LdnbQkbnLXGBPD8",
+        "name": "小K电商图",
+        "icon": "https://hao8.qhimg.com/t018c4f297c4b5ed094.png?size=180x180",
+        "desc": "简单操作即可生成适合世界各地市场的AI模特和AI场景的电商图片。",
+        "aid": "LdnbQkbnLXGBPD",
+        "url": "https://ds.yunboai.com/",
+        "tags": [
+            {
+                "id": 115,
+                "name": "绘画",
+                "desc": "绘画",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 107,
+                "name": "电子商务",
+                "desc": "电子商务",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "MdLUQUTrLX74Oj5",
+        "name": "Motiff",
+        "icon": "https://hao7.qhimg.com/t0106b626b466298c3c.png?size=88x88",
+        "desc": "AI时代设计工具",
+        "aid": "MdLUQUTrLX74Oj",
+        "url": "https://motiff.com/",
+        "tags": [
+            {
+                "id": 26,
+                "name": "AI设计",
+                "desc": "AI设计",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 5,
+                "name": "AI产品",
+                "desc": "AI产品",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KtTURkHkLXGBOT10",
+        "name": "PixelForce",
+        "icon": "https://hao7.qhimg.com/t01ea92f53a71b1d22a.png?size=150x150",
+        "desc": "简单几步操作即刻实现商拍自由，随心所欲展示产品价值。",
+        "aid": "KtTURkHkLXGBOT",
+        "url": "https://pixel-home.hiforce.net/",
+        "tags": [
+            {
+                "id": 115,
+                "name": "绘画",
+                "desc": "绘画",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 107,
+                "name": "电子商务",
+                "desc": "电子商务",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "MdfZQkHqLXG3Qw11",
+        "name": "神采",
+        "icon": "https://hao7.qhimg.com/t015bd8eff98ea6f3d4.png?size=80x80",
+        "desc": "让创意照进现实， AI生成创意插画。",
+        "aid": "MdfZQkHqLXG3Qw",
+        "url": "https://www.ishencai.com/",
+        "tags": [
+            {
+                "id": 125,
+                "name": "视频",
+                "desc": "视频",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 36,
+                "name": "产品设计",
+                "desc": "产品设计",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 72,
+                "name": "建筑",
+                "desc": "建筑",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 104,
+                "name": "游戏",
+                "desc": "游戏",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 115,
+                "name": "绘画",
+                "desc": "绘画",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LNLZP0fmLXC5Qw14",
+        "name": "Found纷得",
+        "icon": "https://hao8.qhimg.com/t01cb99861756a5792c.png?size=180x180",
+        "desc": "一键 AI 资产编辑工具，数字资产管理解决方案",
+        "aid": "LNLZP0fmLXC5Qw",
+        "url": "https://www.aalab.com.cn/",
+        "tags": [
+            {
+                "id": 115,
+                "name": "绘画",
+                "desc": "绘画",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 130,
+                "name": "设计",
+                "desc": "设计",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 125,
+                "name": "视频",
+                "desc": "视频",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 53,
+                "name": "协作",
+                "desc": "协作",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 84,
+                "name": "效率提升",
+                "desc": "效率提升",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KAXdPkLoLXCAPD15",
+        "name": "uBrand",
+        "icon": "https://hao7.qhimg.com/t01760e9ce9c283db2c.jpg",
+        "desc": "一站式AI品牌创建平台，快速打造专业品牌！",
+        "aid": "KAXdPkLoLXCAPD",
+        "url": "https://www.ubrand.com/",
+        "tags": [
+            {
+                "id": 130,
+                "name": "设计",
+                "desc": "设计",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 123,
+                "name": "营销",
+                "desc": "营销",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "MNfYPkTrLXO5Qw17",
+        "name": "美间AI",
+        "icon": "https://hao7.qhimg.com/t0128e266d70d4dcf5c.png?size=200x200",
+        "desc": "AI智能海报，AI提案PPT，AI场景拼搭。",
+        "aid": "MNfYPkTrLXO5Qw",
+        "url": "https://design.meijian.com/mj/meijian-tool/meijian-platform/ai-gather",
+        "tags": [
+            {
+                "id": 130,
+                "name": "设计",
+                "desc": "设计",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 31,
+                "name": "PPT",
+                "desc": "PPT",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KdLVP0jsLXC5OD9",
+        "name": "WeShop",
+        "icon": "https://hao8.qhimg.com/t0154e27e52bcbcb17e.png?size=140x140",
+        "desc": "AI商拍，不会受到模特/经纪/摄影/后期/场租/机酒的限制，省时省力又省钱。",
+        "aid": "KdLVP0jsLXC5OD",
+        "url": "https://www.weshop.com/",
+        "tags": [
+            {
+                "id": 123,
+                "name": "营销",
+                "desc": "营销",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 115,
+                "name": "绘画",
+                "desc": "绘画",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,489 @@
+[
+    {
+        "id": "KtHdRUbnLXCDQw3",
+        "name": "腾讯混元大模型",
+        "icon": "https://hao8.qhimg.com/t017bbf533287748bcc.png?size=80x80",
+        "desc": "具备强大的中文创作能力，复杂语境下的逻辑推理能力，以及可靠的任务执行能力",
+        "aid": "KtHdRUbnLXCDQw",
+        "url": "https://hunyuan.tencent.com/",
+        "tags": [
+            {
+                "id": 63,
+                "name": "大模型",
+                "desc": "大模型",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 121,
+                "name": "腾讯",
+                "desc": "腾讯",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KtPUP0TnLXKAQw6",
+        "name": "言犀",
+        "icon": "https://hao8.qhimg.com/t0194d8db1df15b7d47.png?size=72x72",
+        "desc": "京东智能人机交互平台，助力企业服务数智化转型。",
+        "aid": "KtPUP0TnLXKAQw",
+        "url": "https://yanxi.jd.com/",
+        "tags": [
+            {
+                "id": 94,
+                "name": "智能对话",
+                "desc": "智能对话",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 40,
+                "name": "企业",
+                "desc": "企业",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LtPYP0bmLXKAQD7",
+        "name": "MiracleVision奇想智能",
+        "icon": "https://hao7.qhimg.com/t0133764c36a013410a.png?size=200x200",
+        "desc": "美图自研，一款懂美学的AI视觉大模型。",
+        "aid": "LtPYP0bmLXKAQD",
+        "url": "https://www.miraclevision.com/",
+        "tags": [
+            {
+                "id": 63,
+                "name": "大模型",
+                "desc": "大模型",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 115,
+                "name": "绘画",
+                "desc": "绘画",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KtPZRUPrLXGCPT17",
+        "name": "孟子 GPT",
+        "icon": "https://hao7.qhimg.com/t019ca0e2041cf44b94.png?size=200x200",
+        "desc": "帮助用户完成特定场景中的多种工作任务。",
+        "aid": "KtPZRUPrLXGCPT",
+        "url": "https://www.langboat.com/portal/mengzi-gpt",
+        "tags": [
+            {
+                "id": 63,
+                "name": "大模型",
+                "desc": "大模型",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 94,
+                "name": "智能对话",
+                "desc": "智能对话",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "MdnVPUHkLXKCOT19",
+        "name": "书生通用大模型体系",
+        "icon": "https://hao8.qhimg.com/t013511077bbef32cc9.png?size=200x200",
+        "desc": "定义任意任务和轻量级自适应融合",
+        "aid": "MdnVPUHkLXKCOT",
+        "url": "https://intern-ai.org.cn/",
+        "tags": [
+            {
+                "id": 63,
+                "name": "大模型",
+                "desc": "大模型",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "MtnWQUHpLXCBPD11",
+        "name": "百川大模型",
+        "icon": "https://hao7.qhimg.com/t01d723347aa2b9983e.png?size=200x200",
+        "desc": "可以和人类进行自然交流、解答问题、协助创作.",
+        "aid": "MtnWQUHpLXCBPD",
+        "url": "https://www.baichuan-ai.com/",
+        "tags": [
+            {
+                "id": 63,
+                "name": "大模型",
+                "desc": "大模型",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 94,
+                "name": "智能对话",
+                "desc": "智能对话",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 82,
+                "name": "搜狗",
+                "desc": "搜狗",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LdTYPUfsLX75Ow8",
+        "name": "ChatGLM",
+        "icon": "https://hao8.qhimg.com/t0179af576495189298.jpg?size=100x100",
+        "desc": "由清华技术成果转化的公司智谱AI，开源GLM 系列模型的新成员。",
+        "aid": "LdTYPUfsLX75Ow",
+        "url": "https://chatglm.cn/detail",
+        "tags": [
+            {
+                "id": 29,
+                "name": "GLM-130B",
+                "desc": "GLM-130B",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 12,
+                "name": "ai大规模",
+                "desc": "ai大规模",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "MtndQEjkLXKCOw18",
+        "name": "山海大模型",
+        "icon": "https://hao7.qhimg.com/t01c4a19a5012a4ce29.png?size=140x140",
+        "desc": "拥有丰富的知识储备，涵盖科学、技术、文化、艺术、医疗、通识等领域。",
+        "aid": "MtndQEjkLXKCOw",
+        "url": "https://shanhai.unisound.com/",
+        "tags": [
+            {
+                "id": 63,
+                "name": "大模型",
+                "desc": "大模型",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KAbXREnnLXS4Qw0",
+        "name": "火山方舟",
+        "icon": "https://hao7.qhimg.com/t013e7dc429dd96f699.png?size=100x100",
+        "desc": "火山引擎AI大模型平台。",
+        "aid": "KAbXREnnLXS4Qw",
+        "url": "https://www.volcengine.com/product/ark",
+        "tags": [
+            {
+                "id": 63,
+                "name": "大模型",
+                "desc": "大模型",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "MdLZQkHnLXKCOD1",
+        "name": "盘古大模型",
+        "icon": "https://hao7.qhimg.com/t01933429b569390f06.png?size=200x200",
+        "desc": "华为云推出的面向行业的大模型。",
+        "aid": "MdLZQkHnLXKCOD",
+        "url": "https://www.huaweicloud.com/product/pangu.html",
+        "tags": [
+            {
+                "id": 63,
+                "name": "大模型",
+                "desc": "大模型",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 52,
+                "name": "华为",
+                "desc": "华为",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KALWQEbrLXK3PD13",
+        "name": "天壤小白",
+        "icon": "https://hao8.qhimg.com/t01136602a93d31bc27.png?size=200x200",
+        "desc": "为开发者和零编程基础人员轻松创建个性化的AI应用。",
+        "aid": "KALWQEbrLXK3PD",
+        "url": "https://www.tianrang.com/",
+        "tags": [
+            {
+                "id": 63,
+                "name": "大模型",
+                "desc": "大模型",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KAXURkHoLXG5Oj14",
+        "name": "应事AI",
+        "icon": "https://hao7.qhimg.com/t016112e2cdadc1cede.png?size=192x192",
+        "desc": "MiniMax推出的AI对话助理，帮助您高效写作、激发灵感、获取知识、做出决策．",
+        "aid": "KAXURkHoLXG5Oj",
+        "url": "https://yingshi-ai.com/",
+        "tags": [
+            {
+                "id": 63,
+                "name": "大模型",
+                "desc": "大模型",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 94,
+                "name": "智能对话",
+                "desc": "智能对话",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KtHVQkTrLXG5Qw10",
+        "name": "昇思MindSpore",
+        "icon": "https://hao8.qhimg.com/t0158b8d34fa52fbc1b.png?size=140x140",
+        "desc": "华为开源自研AI深度学习框架。",
+        "aid": "KtHVQkTrLXG5Qw",
+        "url": "https://www.mindspore.cn/",
+        "tags": [
+            {
+                "id": 19,
+                "name": "AI框架",
+                "desc": "AI框架",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 103,
+                "name": "深度学习",
+                "desc": "深度学习",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KATVPUbjLXK3Oj15",
+        "name": "Cephalon端脑",
+        "icon": "https://hao8.qhimg.com/t01f52313c00a20a638.png?size=200x200",
+        "desc": "将分散的计算资源进⾏整合和优化，为用户提供强⼤的计算能⼒⽀持。",
+        "aid": "KATVPUbjLXK3Oj",
+        "url": "https://cephalon.cloud/",
+        "tags": [
+            {
+                "id": 63,
+                "name": "大模型",
+                "desc": "大模型",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LdbZQ0HmLXvAPj16",
+        "name": "ZelinAI",
+        "icon": "https://hao8.qhimg.com/t01be616501314fbe3c.png?size=32x32",
+        "desc": "零代码构建自己的AI应用",
+        "aid": "LdbZQ0HmLXvAPj",
+        "url": "https://zelinai.com/",
+        "tags": [
+            {
+                "id": 20,
+                "name": "AI模型",
+                "desc": "AI模型",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 68,
+                "name": "小模型",
+                "desc": "小模型",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 14,
+                "name": "AI应用",
+                "desc": "AI应用",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KALWQkrsLX73Pw4",
+        "name": "商量大语言模型",
+        "icon": "https://hao8.qhimg.com/t017027ffe27af4eae2.jpg?size=80x80",
+        "desc": "商汤科技AI对话产品",
+        "aid": "KALWQkrsLX73Pw",
+        "url": "https://chat.sensetime.com/",
+        "tags": [
+            {
+                "id": 135,
+                "name": "通用大模型",
+                "desc": "通用大模型",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 5,
+                "name": "AI产品",
+                "desc": "AI产品",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 13,
+                "name": "AI对话",
+                "desc": "AI对话",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KdfbRkHrLX78OT2",
+        "name": "讯飞星火认知大模型",
+        "icon": "https://hao8.qhimg.com/t010baae116cc0fead3.png?size=100x100",
+        "desc": "拥有跨领域知识和语言理解能力，能够基于自然对话方式理解与执行任务。",
+        "aid": "KdfbRkHrLX78OT",
+        "url": "https://xinghuo.xfyun.cn/",
+        "tags": [
+            {
+                "id": 63,
+                "name": "大模型",
+                "desc": "大模型",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 45,
+                "name": "写作助手",
+                "desc": "写作助手",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 51,
+                "name": "办公",
+                "desc": "办公",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 80,
+                "name": "插件",
+                "desc": "插件",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KATYQUfoLXK3Pw5",
+        "name": "有道智云AI开放平台",
+        "icon": "https://hao8.qhimg.com/t015d960444f886e579.png?size=54x54",
+        "desc": "为政府、企业和开发者提供稳定可靠的基础AI能力。",
+        "aid": "KATYQUfoLXK3Pw",
+        "url": "https://ai.youdao.com/",
+        "tags": [
+            {
+                "id": 63,
+                "name": "大模型",
+                "desc": "大模型",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 74,
+                "name": "开放平台",
+                "desc": "开放平台",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 99,
+                "name": "有道",
+                "desc": "有道",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 117,
+                "name": "网易",
+                "desc": "网易",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LtPVPUbpLXKCOj12",
+        "name": "曹植大语言模型",
+        "icon": "https://hao8.qhimg.com/t01f00b4cbcfb31e80b.png?size=140x140",
+        "desc": "垂直领域大语言模型",
+        "aid": "LtPVPUbpLXKCOj",
+        "url": "https://www.datagrand.com/products/aigc/",
+        "tags": [
+            {
+                "id": 63,
+                "name": "大模型",
+                "desc": "大模型",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KtTZPUTjLXK3OT9",
+        "name": "千帆大模型平台",
+        "icon": "https://hao8.qhimg.com/t0159d309a3d22e6a86.png?size=110x110",
+        "desc": "提供全球领先的人工智能、大数据和云计算服务。",
+        "aid": "KtTZPUTjLXK3OT",
+        "url": "https://cloud.baidu.com/product/wenxinworkshop",
+        "tags": [
+            {
+                "id": 63,
+                "name": "大模型",
+                "desc": "大模型",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 109,
+                "name": "百度",
+                "desc": "百度",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "id": "LAPbQkLsLXC3OD3",
+        "name": "AiPPT",
+        "icon": "https://hao8.qhimg.com/t01e1d4feb8e9773bf9.png?size=200x200",
+        "desc": "Ai一键生成高质量PPT。",
+        "aid": "LAPbQkLsLXC3OD",
+        "url": "https://www.aippt.cn/",
+        "tags": [
+            {
+                "id": 51,
+                "name": "办公",
+                "desc": "办公",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 84,
+                "name": "效率提升",
+                "desc": "效率提升",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 31,
+                "name": "PPT",
+                "desc": "PPT",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LdXaREfsX3SAOT0",
+        "name": "讯飞听见",
+        "icon": "https://hao8.qhimg.com/t011a4438a7c9bc3e31.png?size=100x100",
+        "desc": "AI智能会议系统",
+        "aid": "LdXaREfsX3SAOT",
+        "url": "https://meeting.iflyrec.com/",
+        "tags": [
+            {
+                "id": 126,
+                "name": "视频会议",
+                "desc": "视频会议",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 6,
+                "name": "AI会议",
+                "desc": "AI会议",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KArdRkTmLXGBPj11",
+        "name": "摹客",
+        "icon": "https://hao7.qhimg.com/t01614e4324e356ee1f.png?size=120x120",
+        "desc": "全能设计协作平台，产品经理用 RP，UI设计师用 DT。",
+        "aid": "KArdRkTmLXGBPj",
+        "url": "https://www.mockplus.cn/",
+        "tags": [
+            {
+                "id": 130,
+                "name": "设计",
+                "desc": "设计",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 35,
+                "name": "产品",
+                "desc": "产品",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 51,
+                "name": "办公",
+                "desc": "办公",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KdbYQ0XkLnCCPj12",
+        "name": "HuiPPT",
+        "icon": "https://hao7.qhimg.com/t11148baf615de4be2c96bf6477.jpg?size=100x100",
+        "desc": "自动生成并优化PPT大纲及内容",
+        "aid": "KdbYQ0XkLnCCPj",
+        "url": "https://www.huippt.com/",
+        "tags": [
+            {
+                "id": 11,
+                "name": "AI办公",
+                "desc": "AI办公",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 32,
+                "name": "PPT工具",
+                "desc": "PPT工具",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LdHXRUnnLX7DPw4",
+        "name": "酷表ChatExcel",
+        "icon": "https://hao7.qhimg.com/t018143db15806c96d3.png?size=100x100",
+        "desc": "北大团队开发的通过聊天来操作Excel表格的AI工具",
+        "aid": "LdHXRUnnLX7DPw",
+        "url": "https://chatexcel.com/",
+        "tags": [
+            {
+                "id": 51,
+                "name": "办公",
+                "desc": "办公",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 84,
+                "name": "效率提升",
+                "desc": "效率提升",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 28,
+                "name": "Excel",
+                "desc": "Excel",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 124,
+                "name": "表格",
+                "desc": "表格",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 86,
+                "name": "数据",
+                "desc": "数据",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KtbYPkPqLXC4Qw7",
+        "name": "Fabrie",
+        "icon": "https://hao8.qhimg.com/t018861d2a89e6d701e.png?size=140x140",
+        "desc": "一套在线设计协作工具",
+        "aid": "KtbYPkPqLXC4Qw",
+        "url": "https://www.fabrie.cn/",
+        "tags": [
+            {
+                "id": 130,
+                "name": "设计",
+                "desc": "设计",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 53,
+                "name": "协作",
+                "desc": "协作",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 51,
+                "name": "办公",
+                "desc": "办公",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 84,
+                "name": "效率提升",
+                "desc": "效率提升",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KtXYQkToLXCCOT10",
+        "name": "麦耳会记",
+        "icon": "https://hao7.qhimg.com/t01b246067f53a3cdb1.png?size=50x50",
+        "desc": "AI会议助手，支持语音转文字、字幕同传、AI摘要。",
+        "aid": "KtXYQkToLXCCOT",
+        "url": "https://work.duiopen.com/",
+        "tags": [
+            {
+                "id": 51,
+                "name": "办公",
+                "desc": "办公",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 41,
+                "name": "会议",
+                "desc": "会议",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LNfURUTkLXCBOT15",
+        "name": "幕布",
+        "icon": "https://hao8.qhimg.com/t01462a3fefd23af8ea.png?size=120x120",
+        "desc": "一键把大纲结构的文本内容转化成思维导图。",
+        "aid": "LNfURUTkLXCBOT",
+        "url": "https://mubu.com/",
+        "tags": [
+            {
+                "id": 51,
+                "name": "办公",
+                "desc": "办公",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 76,
+                "name": "思维导航",
+                "desc": "思维导航",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 84,
+                "name": "效率提升",
+                "desc": "效率提升",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LAnYQErjLX7DPD6",
+        "name": "印象AI",
+        "icon": "https://hao7.qhimg.com/t018ca0c1766b690827.png?size=100x100",
+        "desc": "印象笔记推出的AI知识和信息管理功能",
+        "aid": "LAnYQErjLX7DPD",
+        "url": "https://www.yinxiang.com/about/yxai-yxbj/",
+        "tags": [
+            {
+                "id": 51,
+                "name": "办公",
+                "desc": "办公",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 84,
+                "name": "效率提升",
+                "desc": "效率提升",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 88,
+                "name": "文档",
+                "desc": "文档",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 53,
+                "name": "协作",
+                "desc": "协作",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "MtLdPkXjLXO6Pj18",
+        "name": "星火文档问答",
+        "icon": "https://hao8.qhimg.com/t010baae116cc0fead3.png?size=100x100",
+        "desc": "高效检索文档信息，准确回答专业问题。",
+        "aid": "MtLdPkXjLXO6Pj",
+        "url": "https://chatdoc.xfyun.cn/",
+        "tags": [
+            {
+                "id": 94,
+                "name": "智能对话",
+                "desc": "智能对话",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LdPWQEflLXCAPw14",
+        "name": "通义听悟",
+        "icon": "https://hao7.qhimg.com/t01fa7b5f91ae6208ce.png?size=700x700",
+        "desc": "实时转录和音视频转文字，智能生成总结，实时翻译。",
+        "aid": "LdPWQEflLXCAPw",
+        "url": "https://tingwu.aliyun.com/",
+        "tags": [
+            {
+                "id": 51,
+                "name": "办公",
+                "desc": "办公",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 84,
+                "name": "效率提升",
+                "desc": "效率提升",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 142,
+                "name": "音频",
+                "desc": "音频",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 45,
+                "name": "写作助手",
+                "desc": "写作助手",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 119,
+                "name": "翻译",
+                "desc": "翻译",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LdfURUToLXG4Oj13",
+        "name": "墨刀",
+        "icon": "https://hao7.qhimg.com/t0106c43b223890b96e.png?size=200x200",
+        "desc": "在线一体化产品设计协作平台。",
+        "aid": "LdfURUToLXG4Oj",
+        "url": "https://modao.cc/",
+        "tags": [
+            {
+                "id": 51,
+                "name": "办公",
+                "desc": "办公",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 84,
+                "name": "效率提升",
+                "desc": "效率提升",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 53,
+                "name": "协作",
+                "desc": "协作",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 35,
+                "name": "产品",
+                "desc": "产品",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 130,
+                "name": "设计",
+                "desc": "设计",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LtfWRUnlLXG8OT9",
+        "name": "芦笋提词器",
+        "icon": "https://hao8.qhimg.com/t01f5540c491bcafa6c.png?size=140x140",
+        "desc": "支持智能跟读、滚屏提词和隐形提词的电脑端提词工具。",
+        "aid": "LtfWRUnlLXG8OT",
+        "url": "https://tcq.lusun.com/",
+        "tags": [
+            {
+                "id": 133,
+                "name": "语音识别",
+                "desc": "语音识别",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 51,
+                "name": "办公",
+                "desc": "办公",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "MtjaQ0PnLXGDOD2",
+        "name": "AI数字员工",
+        "icon": "https://hao7.qhimg.com/t0193f0ca0e35ecfdd8.png?size=120x120",
+        "desc": "让AI数字员工 7*24 小时替你完成工",
+        "aid": "MtjaQ0PnLXGDOD",
+        "url": "https://ai.n.cn/",
+        "tags": [
+            {
+                "id": 51,
+                "name": "办公",
+                "desc": "办公",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 45,
+                "name": "写作助手",
+                "desc": "写作助手",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 119,
+                "name": "翻译",
+                "desc": "翻译",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 123,
+                "name": "营销",
+                "desc": "营销",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 1,
+                "name": "360智脑",
+                "desc": "360智脑",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KAbZPUnlLXG6Qw17",
+        "name": "秒出PPT",
+        "icon": "https://hao8.qhimg.com/t01ea42bf4378eb5385.png?size=200x200",
+        "desc": "输入内容10秒完成你的专属PPT。",
+        "aid": "KAbZPUnlLXG6Qw",
+        "url": "https://10sppt.com/",
+        "tags": [
+            {
+                "id": 51,
+                "name": "办公",
+                "desc": "办公",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 84,
+                "name": "效率提升",
+                "desc": "效率提升",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 31,
+                "name": "PPT",
+                "desc": "PPT",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LtLdREPpLXCAOj16",
+        "name": "职徒简历",
+        "icon": "https://hao8.qhimg.com/t01d19bbba32a84ef09.png?size=200x200",
+        "desc": "智能简历制作软件，基于GPT的简历优化和简历代写。",
+        "aid": "LtLdREPpLXCAOj",
+        "url": "https://www.52cv.com/",
+        "tags": [
+            {
+                "id": 114,
+                "name": "简历",
+                "desc": "简历",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 78,
+                "name": "招聘",
+                "desc": "招聘",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 102,
+                "name": "求职",
+                "desc": "求职",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 51,
+                "name": "办公",
+                "desc": "办公",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LtbcPkHoLXCAOT8",
+        "name": "爱设计PPT",
+        "icon": "https://hao8.qhimg.com/t01fb6580ac872f878c.png?size=160x160",
+        "desc": "一款AI驱动的PPT在线生成器。",
+        "aid": "LtbcPkHoLXCAOT",
+        "url": "https://ppt.isheji.com/",
+        "tags": [
+            {
+                "id": 31,
+                "name": "PPT",
+                "desc": "PPT",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 51,
+                "name": "办公",
+                "desc": "办公",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 84,
+                "name": "效率提升",
+                "desc": "效率提升",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "MNrdQEPlLXC4Pj5",
+        "name": "MasterGo",
+        "icon": "https://hao7.qhimg.com/t0179a6293c53d5a1d5.png?size=200x200",
+        "desc": "面向团队的专业 UI/UX 设计工具",
+        "aid": "MNrdQEPlLXC4Pj",
+        "url": "https://mastergo.com/",
+        "tags": [
+            {
+                "id": 130,
+                "name": "设计",
+                "desc": "设计",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 51,
+                "name": "办公",
+                "desc": "办公",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 84,
+                "name": "效率提升",
+                "desc": "效率提升",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 53,
+                "name": "协作",
+                "desc": "协作",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    }
+]

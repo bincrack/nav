@@ -1,0 +1,483 @@
+[
+    {
+        "id": "MtTWPkbnZHKAOj0",
+        "name": "360智脑",
+        "icon": "https://hao8.qhimg.com/t0138c6bb0b04b78cbe.png?size=140x140",
+        "desc": "拥有独特语言理解能力，通过实时对话，解答疑惑、探索灵感，用AI技术帮人类打开智慧的大门",
+        "aid": "MtTWPkbnZHKAOj",
+        "url": "https://chat.360.cn/",
+        "tags": [
+            {
+                "id": 13,
+                "name": "AI对话",
+                "desc": "AI对话",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 63,
+                "name": "大模型",
+                "desc": "大模型",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KAPXRUTlYXKBOw2",
+        "name": "文心一言",
+        "icon": "https://hao7.qhimg.com/t01730d2985006e772b.png?size=196x193",
+        "desc": "百度全新一代知识增强大语言模型",
+        "aid": "KAPXRUTlYXKBOw",
+        "url": "https://yiyan.baidu.com/",
+        "tags": [
+            {
+                "id": 2,
+                "name": "AI",
+                "desc": "AI",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 63,
+                "name": "大模型",
+                "desc": "大模型",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 67,
+                "name": "对话",
+                "desc": "对话",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LAjXPkXkLXCCPT5",
+        "name": "天工AI助手",
+        "icon": "https://hao7.qhimg.com/t01412ec115c8e2765b.png?size=100x100",
+        "desc": "六大领域数百种功能，带你领略人工智能的强大魅力。",
+        "aid": "LAjXPkXkLXCCPT",
+        "url": "https://home.tiangong.cn/",
+        "tags": [
+            {
+                "id": 63,
+                "name": "大模型",
+                "desc": "大模型",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 94,
+                "name": "智能对话",
+                "desc": "智能对话",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 45,
+                "name": "写作助手",
+                "desc": "写作助手",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 116,
+                "name": "编程",
+                "desc": "编程",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LdTZPkrkLXG5PD10",
+        "name": "Luca面壁露卡",
+        "icon": "https://hao8.qhimg.com/t010a344d83451508d6.png?size=160x160",
+        "desc": "面壁智能推出的千亿多模态大模型免费智能对话助手。",
+        "aid": "LdTZPkrkLXG5PD",
+        "url": "https://luca-beta.modelbest.cn/",
+        "tags": [
+            {
+                "id": 63,
+                "name": "大模型",
+                "desc": "大模型",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 94,
+                "name": "智能对话",
+                "desc": "智能对话",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KtbcREPkLXz5Oj14",
+        "name": "酷盖AI",
+        "icon": "https://hao7.qhimg.com/t0118885663030ab807.png?size=100x100",
+        "desc": "集成ChatGPT的智能聊天机器人。",
+        "aid": "KtbcREPkLXz5Oj",
+        "url": "https://gpt33.cn/",
+        "tags": [
+            {
+                "id": 120,
+                "name": "聊天机器人",
+                "desc": "聊天机器人",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 94,
+                "name": "智能对话",
+                "desc": "智能对话",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LNbXPkTnLXK3Ow13",
+        "name": "墨鱼Aigc",
+        "icon": "https://hao8.qhimg.com/t012f1ef49ac3bff2e9.png?size=160x160",
+        "desc": "一键生成营销广告、文案、原创文章等写作服务。",
+        "aid": "LNbXPkTnLXK3Ow",
+        "url": "http://www.moyuai.cn/",
+        "tags": [
+            {
+                "id": 45,
+                "name": "写作助手",
+                "desc": "写作助手",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 94,
+                "name": "智能对话",
+                "desc": "智能对话",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KAbXQkHpLXG5Pw1",
+        "name": "百度AI伙伴",
+        "icon": "https://p1.ssl.qhimg.com/t01c1f6d127c8a180f8.webp?size=150x150",
+        "desc": "基于文心大模型的AI搜索对话工具。",
+        "aid": "KAbXQkHpLXG5Pw",
+        "url": "https://chat.baidu.com/",
+        "tags": [
+            {
+                "id": 94,
+                "name": "智能对话",
+                "desc": "智能对话",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 109,
+                "name": "百度",
+                "desc": "百度",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 83,
+                "name": "搜索",
+                "desc": "搜索",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LNTaQUTpLXGCPj12",
+        "name": "Chato",
+        "icon": "https://hao8.qhimg.com/t01a3f5c3034025b548.png?size=150x150",
+        "desc": "上传学习素材或添加提示语，获得独特个性和超强能力的专属助理机器人。",
+        "aid": "LNTaQUTpLXGCPj",
+        "url": "https://chato.cn/",
+        "tags": [
+            {
+                "id": 96,
+                "name": "智能聊天",
+                "desc": "智能聊天",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KAPXPkjqLXC3PT9",
+        "name": "小门道",
+        "icon": "https://hao7.qhimg.com/t01d8f6d0ad049c0a93.png?size=200x200",
+        "desc": "一站式图片创作AI站点",
+        "aid": "KAPXPkjqLXC3PT",
+        "url": "https://www.xiaomendao.cn/",
+        "tags": [
+            {
+                "id": 115,
+                "name": "绘画",
+                "desc": "绘画",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 98,
+                "name": "智能问答",
+                "desc": "智能问答",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 120,
+                "name": "聊天机器人",
+                "desc": "聊天机器人",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LdPXRknlLXS6Oj17",
+        "name": "在问",
+        "icon": "https://hao7.qhimg.com/t011a87d9f445c0aeec.png?size=128x128",
+        "desc": "功能全面又免费的人工智能网站。",
+        "aid": "LdPXRknlLXS6Oj",
+        "url": "https://www.zaiwen.top/",
+        "tags": [
+            {
+                "id": 94,
+                "name": "智能对话",
+                "desc": "智能对话",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 115,
+                "name": "绘画",
+                "desc": "绘画",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 45,
+                "name": "写作助手",
+                "desc": "写作助手",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 83,
+                "name": "搜索",
+                "desc": "搜索",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 75,
+                "name": "思维导图",
+                "desc": "思维导图",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LtbXQkHmLXK4OT15",
+        "name": "小悟空",
+        "icon": "https://hao8.qhimg.com/t01815e491e81cab02b.png?size=200x200",
+        "desc": "AI 对话助手和个人助理",
+        "aid": "LtbXQkHmLXK4OT",
+        "url": "https://wukong.com/",
+        "tags": [
+            {
+                "id": 94,
+                "name": "智能对话",
+                "desc": "智能对话",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LNnXQkrlLXK8QD8",
+        "name": "智谱清言",
+        "icon": "https://hao7.qhimg.com/t019479f1d67f67a065.png?size=200x200",
+        "desc": "由清华大学和智谱 AI 联合研发的第二代 GLM 系列对话语言模型。",
+        "aid": "LNnXQkrlLXK8QD",
+        "url": "https://chatglm.cn/",
+        "tags": [
+            {
+                "id": 94,
+                "name": "智能对话",
+                "desc": "智能对话",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LdTVP0noLXKCPT7",
+        "name": "通义智文",
+        "icon": "https://hao7.qhimg.com/t01df01871644b82185.png?size=200x200",
+        "desc": "基于通义大模型的AI阅读助手，可智能阅读网页、论文、图书和文档。",
+        "aid": "LdTVP0noLXKCPT",
+        "url": "https://tongyi.aliyun.com/zhiwen",
+        "tags": [
+            {
+                "id": 138,
+                "name": "阅读",
+                "desc": "阅读",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 139,
+                "name": "阿里云",
+                "desc": "阿里云",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LNPYRknjLXGDPT6",
+        "name": "思默问答",
+        "icon": "https://hao8.qhimg.com/t01c72426fdc237e856.png?size=200x200",
+        "desc": "高效智能的问答、写作生成器，旨在提高内容创作效率。",
+        "aid": "LNPYRknjLXGDPT",
+        "url": "https://www.sitesmo.com/",
+        "tags": [
+            {
+                "id": 94,
+                "name": "智能对话",
+                "desc": "智能对话",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 45,
+                "name": "写作助手",
+                "desc": "写作助手",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 115,
+                "name": "绘画",
+                "desc": "绘画",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 79,
+                "name": "提示词",
+                "desc": "提示词",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KALWQkrsLX73Pw3",
+        "name": "商量大语言模型",
+        "icon": "https://hao8.qhimg.com/t017027ffe27af4eae2.jpg?size=80x80",
+        "desc": "商汤科技AI对话产品",
+        "aid": "KALWQkrsLX73Pw",
+        "url": "https://chat.sensetime.com/",
+        "tags": [
+            {
+                "id": 135,
+                "name": "通用大模型",
+                "desc": "通用大模型",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 5,
+                "name": "AI产品",
+                "desc": "AI产品",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 13,
+                "name": "AI对话",
+                "desc": "AI对话",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KdTYQUTmLXKCQw16",
+        "name": "AI对话鸭",
+        "icon": "https://hao8.qhimg.com/t010514d2dc4a5183f5.png?size=160x160",
+        "desc": "同时与10+ 个AI大模型进行对话，0门槛使用AI。",
+        "aid": "KdTYQUTmLXKCQw",
+        "url": "https://botvip.cn/",
+        "tags": [
+            {
+                "id": 96,
+                "name": "智能聊天",
+                "desc": "智能聊天",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KtjWQkPoLXGAOj11",
+        "name": "沐灵AI",
+        "icon": "https://hao7.qhimg.com/t0191ce4d89fb08f2d0.png?size=140x140",
+        "desc": "AI 聊天工具。",
+        "aid": "KtjWQkPoLXGAOj",
+        "url": "https://chat.immuseai.com/",
+        "tags": [
+            {
+                "id": 94,
+                "name": "智能对话",
+                "desc": "智能对话",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 115,
+                "name": "绘画",
+                "desc": "绘画",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KdnaQEHjLX78PD4",
+        "name": "豆包",
+        "icon": "https://hao7.qhimg.com/t01873fb019f2cf8acf.png?size=240x240",
+        "desc": "字节首个AI对话式APP",
+        "aid": "KdnaQEHjLX78PD",
+        "url": "https://www.doubao.com/",
+        "tags": [
+            {
+                "id": 65,
+                "name": "字节跳动",
+                "desc": "字节跳动",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 13,
+                "name": "AI对话",
+                "desc": "AI对话",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    }
+]

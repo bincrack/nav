@@ -1,0 +1,246 @@
+[
+    {
+        "id": "LNTZQkPjLXG7PT4",
+        "name": "CodeGeeX",
+        "icon": "https://hao8.qhimg.com/t01f8b281b759d78b6e.png?size=180x180",
+        "desc": "基于大模型的全能的智能编程助手。",
+        "aid": "LNTZQkPjLXG7PT",
+        "url": "https://codegeex.cn/",
+        "tags": [
+            {
+                "id": 73,
+                "name": "开发",
+                "desc": "开发",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 116,
+                "name": "编程",
+                "desc": "编程",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 38,
+                "name": "代码",
+                "desc": "代码",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KAnYQUnlLXO6Ow6",
+        "name": "aiXcoder",
+        "icon": "https://hao7.qhimg.com/t01e400ac77cfd03d43.png?size=200x200",
+        "desc": "智能编程机器人助你高效开发,尽享编程乐趣.",
+        "aid": "KAnYQUnlLXO6Ow",
+        "url": "https://www.aixcoder.com/",
+        "tags": [
+            {
+                "id": 116,
+                "name": "编程",
+                "desc": "编程",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 38,
+                "name": "代码",
+                "desc": "代码",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KdfZQULnLXS3QD8",
+        "name": "代码小浣熊",
+        "icon": "https://hao7.qhimg.com/t01fa0423ce3197c3a6.png?size=288x288",
+        "desc": "商汤科技推出的智能AI编程助手.",
+        "aid": "KdfZQULnLXS3QD",
+        "url": "https://code.sensetime.com/",
+        "tags": [
+            {
+                "id": 116,
+                "name": "编程",
+                "desc": "编程",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KtXUPkHrLX73PT5",
+        "name": "智谱AI",
+        "icon": "https://hao8.qhimg.com/t015f3bf79788f86b07.jpg",
+        "desc": "大模型MaaS开放平台",
+        "aid": "KtXUPkHrLX73PT",
+        "url": "https://open.bigmodel.cn/",
+        "tags": [
+            {
+                "id": 39,
+                "name": "代码生成",
+                "desc": "代码生成",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 15,
+                "name": "AI开发",
+                "desc": "AI开发",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 44,
+                "name": "内容创作",
+                "desc": "内容创作",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KAPWQUbmLXW5Oj0",
+        "name": "Comate",
+        "icon": "https://hao7.qhimg.com/t01c57fb3906828dddb.png?size=90x90",
+        "desc": "百度旗下AI编程助手。",
+        "aid": "KAPWQUbmLXW5Oj",
+        "url": "https://comate.baidu.com/",
+        "tags": [
+            {
+                "id": 116,
+                "name": "编程",
+                "desc": "编程",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LdXaQUTkLXKCPD1",
+        "name": "通义灵码",
+        "icon": "https://hao8.qhimg.com/t01df01871644b82185.png?size=200x200",
+        "desc": "基于通义大模型的智能编程辅助工具。",
+        "aid": "LdXaQUTkLXKCPD",
+        "url": "https://tongyi.aliyun.com/lingma",
+        "tags": [
+            {
+                "id": 116,
+                "name": "编程",
+                "desc": "编程",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 38,
+                "name": "代码",
+                "desc": "代码",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 73,
+                "name": "开发",
+                "desc": "开发",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 139,
+                "name": "阿里云",
+                "desc": "阿里云",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LtTdRULkLXKAPj2",
+        "name": "CodeFuse",
+        "icon": "https://hao7.qhimg.com/t01cd2b8fd1626456f5.png?size=200x200",
+        "desc": "蚂蚁自研的智能研发助手。",
+        "aid": "LtTdRULkLXKAPj",
+        "url": "https://codefuse.alipay.com/",
+        "tags": [
+            {
+                "id": 116,
+                "name": "编程",
+                "desc": "编程",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 73,
+                "name": "开发",
+                "desc": "开发",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 38,
+                "name": "代码",
+                "desc": "代码",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LdnVPUfrLX78Qw3",
+        "name": "iFlyCode",
+        "icon": "https://hao7.qhimg.com/t0127335ca214d59608.png?size=60x60",
+        "desc": "讯飞星火认知大模型智能编程助手。",
+        "aid": "LdnVPUfrLX78Qw",
+        "url": "https://iflycode.xfyun.cn/",
+        "tags": [
+            {
+                "id": 116,
+                "name": "编程",
+                "desc": "编程",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 73,
+                "name": "开发",
+                "desc": "开发",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 112,
+                "name": "科大讯飞",
+                "desc": "科大讯飞",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KArZQ0PjLXO5QD7",
+        "name": "Sky-code",
+        "icon": "https://hao8.qhimg.com/t01bcb21c94dab5468e.png?size=120x120",
+        "desc": "AI智能编程助手，轻松生成各种代码。",
+        "aid": "KArZQ0PjLXO5QD",
+        "url": "https://sky-code.singularity-ai.com/",
+        "tags": [
+            {
+                "id": 116,
+                "name": "编程",
+                "desc": "编程",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 38,
+                "name": "代码",
+                "desc": "代码",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    }
+]

@@ -52,11 +52,40 @@ const getWebs = (): INavProps[] => {
   }
 }
 
+import path from 'node:path'
+const getNavData = () => {
+  let db: INavProps[] = [];
+  const db_path = path.resolve('data', 'default', 'db.json');
+  
+  try {
+    db = JSON.parse(fs.readFileSync(db_path).toString().trim())
+  } catch {
+    db = []
+  }
+
+  db.forEach(n1 => {
+    n1 && n1.nav.forEach(n2 => {
+      n2 && n2.nav.forEach(n3 => {
+        try {
+          const nav_path = path.resolve('data', 'nav', `${n3.id}.json`);
+          const nav_data = (JSON.parse(fs.readFileSync(nav_path).toString().trim()));
+          n3.nav = nav_data;
+          n3.nav.forEach(n4 => {
+            n4.tags?.forEach(t => !t.url && (t.url = ''));
+          })
+        } catch { }
+      });
+    });
+  });
+
+  return db;
+}
+
 const main = async () => {
   const configJson = getConfig()
   fs.writeFileSync(PATHS.configJson, JSON.stringify(configJson))
 
-  const db = getWebs()
+  const db = getNavData();
   let internal = {} as InternalProps
   let settings = {} as ISettings
   let tags: ITagPropValues[] = []
@@ -66,7 +95,7 @@ const main = async () => {
   try {
     internal = JSON.parse(fs.readFileSync(PATHS.internal).toString())
     settings = JSON.parse(fs.readFileSync(PATHS.settings).toString())
-    tags = JSON.parse(fs.readFileSync(PATHS.tag).toString())
+    tags = JSON.parse(fs.readFileSync(path.resolve('data', 'default', 'tag.json')).toString())
     search = JSON.parse(fs.readFileSync(PATHS.search).toString())
   } catch (e: any) {
     console.log(e.message)

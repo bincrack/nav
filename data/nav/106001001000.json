@@ -1,0 +1,473 @@
+[
+    {
+        "id": "MdTaP0TjLX7DOj5",
+        "name": "度加",
+        "icon": "https://hao7.qhimg.com/t01f69cd13962986ff4.png?size=80x80",
+        "desc": "百度官方出品的AIGC创作平台。",
+        "aid": "MdTaP0TjLX7DOj",
+        "url": "https://aigc.baidu.com/",
+        "tags": [
+            {
+                "id": 109,
+                "name": "百度",
+                "desc": "百度",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 3,
+                "name": "AIGC",
+                "desc": "AIGC",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 125,
+                "name": "视频",
+                "desc": "视频",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KATUPUbkLXvAPT2",
+        "name": "快剪辑",
+        "icon": "https://hao8.qhimg.com/t018fddc1dd6c5c3700.png?size=80x80",
+        "desc": "好用的在线视频剪辑工具",
+        "aid": "KATUPUbkLXvAPT",
+        "url": "https://www.kuaijianji.com/",
+        "tags": [
+            {
+                "id": 24,
+                "name": "AI视频",
+                "desc": "AI视频",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 10,
+                "name": "AI剪辑",
+                "desc": "AI剪辑",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 127,
+                "name": "视频处理",
+                "desc": "视频处理",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KtXVQEnjYHKCOw4",
+        "name": "秒创",
+        "icon": "https://hao7.qhimg.com/t11148baf61faf4ac7b755e46aa.png?size=200x200",
+        "desc": "AI视频创作，图文转视频,智能内容创作平台",
+        "aid": "KtXVQEnjYHKCOw",
+        "url": "https://aigc.yizhentv.com/",
+        "tags": [
+            {
+                "id": 5,
+                "name": "AI产品",
+                "desc": "AI产品",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 3,
+                "name": "AIGC",
+                "desc": "AIGC",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 25,
+                "name": "AI视频创作",
+                "desc": "AI视频创作",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 61,
+                "name": "图片转视频",
+                "desc": "图片转视频",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "MNXXQUXsLnGCOj1",
+        "name": "360AI短视频",
+        "icon": "https://hao8.qhimg.com/t11148baf6100f05f4223c2ca0d.png?size=1000x1000",
+        "desc": "AI推动内容营销数智化，赋能短视频营销全链路",
+        "aid": "MNXXQUXsLnGCOj",
+        "url": "https://mkt.360.cn/managepage/aidirector?src=dh_360_com",
+        "tags": [
+            {
+                "id": 125,
+                "name": "视频",
+                "desc": "视频",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 89,
+                "name": "文生视频",
+                "desc": "文生视频",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 110,
+                "name": "短视频",
+                "desc": "短视频",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "MdXcRUXnLXKAOw7",
+        "name": "快转字幕",
+        "icon": "https://hao8.qhimg.com/t0143f96bed2f1fcebe.png?size=100x100",
+        "desc": "适用于为各种创作者提供字幕制作、学习资源、会议记录、字幕制作等场景。",
+        "aid": "MdXcRUXnLXKAOw",
+        "url": "https://www.kzzimu.com/",
+        "tags": [
+            {
+                "id": 119,
+                "name": "翻译",
+                "desc": "翻译",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 64,
+                "name": "字幕",
+                "desc": "字幕",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 41,
+                "name": "会议",
+                "desc": "会议",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 142,
+                "name": "音频",
+                "desc": "音频",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "MtXWPUblLX75Pj10",
+        "name": "万彩AI",
+        "icon": "https://hao8.qhimg.com/t016c552c196f7956da.jpg?size=100x100",
+        "desc": "AI智能写作生成神器,照片数字人制作,AI短视频制作",
+        "aid": "MtXWPUblLX75Pj",
+        "url": "https://ai.kezhan365.com/",
+        "tags": [
+            {
+                "id": 16,
+                "name": "ai换脸",
+                "desc": "ai换脸",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 21,
+                "name": "ai短视频",
+                "desc": "ai短视频",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LtnYRUTkLXC7Pw12",
+        "name": "VAS视频加字幕",
+        "icon": "https://hao8.qhimg.com/t01c211cf18c624151b.png?size=200x200",
+        "desc": "AI一键视频加字幕、字幕翻译",
+        "aid": "LtnYRUTkLXC7Pw",
+        "url": "https://www.vaszimu.com/",
+        "tags": [
+            {
+                "id": 125,
+                "name": "视频",
+                "desc": "视频",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 64,
+                "name": "字幕",
+                "desc": "字幕",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 119,
+                "name": "翻译",
+                "desc": "翻译",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KAfaPULsLXK3Pj14",
+        "name": "知作",
+        "icon": "https://hao7.qhimg.com/t012436e884fa2d809d.png?size=120x120",
+        "desc": "人工智能驱动的面向影视行业的次世代创作方式。",
+        "aid": "KAfaPULsLXK3Pj",
+        "url": "https://zizo.pro/",
+        "tags": [
+            {
+                "id": 125,
+                "name": "视频",
+                "desc": "视频",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 46,
+                "name": "创作",
+                "desc": "创作",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 110,
+                "name": "短视频",
+                "desc": "短视频",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LALbPUbkLXKDQD16",
+        "name": "闪剪",
+        "icon": "https://hao8.qhimg.com/t01cc5e0120209369a6.png?size=64x64",
+        "desc": "快速将图片、文章、直播等内容通过AI自动生成视频。",
+        "aid": "LALbPUbkLXKDQD",
+        "url": "https://shanjian.tv/",
+        "tags": [
+            {
+                "id": 125,
+                "name": "视频",
+                "desc": "视频",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LdTaPkTjYXKCPj3",
+        "name": "腾讯智影",
+        "icon": "https://hao8.qhimg.com/t01d5cfeb266916e2c3.jpg?size=160x160",
+        "desc": "云端智能视频创作工具",
+        "aid": "LdTaPkTjYXKCPj",
+        "url": "https://zenvideo.qq.com/",
+        "tags": [
+            {
+                "id": 5,
+                "name": "AI产品",
+                "desc": "AI产品",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 25,
+                "name": "AI视频创作",
+                "desc": "AI视频创作",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LdjZQEbkLXG3PT15",
+        "name": "33字幕",
+        "icon": "https://hao7.qhimg.com/t01d644bb48c2a09644.png",
+        "desc": "AI自动加视频字幕，自动翻译字幕。",
+        "aid": "LdjZQEbkLXG3PT",
+        "url": "https://www.33subs.com/",
+        "tags": [
+            {
+                "id": 119,
+                "name": "翻译",
+                "desc": "翻译",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 64,
+                "name": "字幕",
+                "desc": "字幕",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KtndRkToLXz6Ow6",
+        "name": "D-human数字人",
+        "icon": "https://hao7.qhimg.com/t0176107fdfa844d2a8.png?size=100x100",
+        "desc": "通过数字人制作视频",
+        "aid": "KtndRkToLXz6Ow",
+        "url": "https://www.d-human.cn/",
+        "tags": [
+            {
+                "id": 5,
+                "name": "AI产品",
+                "desc": "AI产品",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 85,
+                "name": "数字人",
+                "desc": "数字人",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 97,
+                "name": "智能语音",
+                "desc": "智能语音",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KdbXRETpLX74Pj9",
+        "name": "象寄翻译",
+        "icon": "https://hao8.qhimg.com/t0139130eafb51f7896.jpg?size=80x80",
+        "desc": "AI短视频翻译首发",
+        "aid": "KdbXRETpLX74Pj",
+        "url": "https://www.xiangjifanyi.com/home/",
+        "tags": [
+            {
+                "id": 129,
+                "name": "视频编辑",
+                "desc": "视频编辑",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LtbbQkHjLXS5QD17",
+        "name": "WinkStudio",
+        "icon": "https://hao8.qhimg.com/t01a7238d9f138f3c12.png?size=64x64",
+        "desc": "美图旗下专业视频人像精修工具。",
+        "aid": "LtbbQkHjLXS5QD",
+        "url": "https://wink.meitu.com/",
+        "tags": [
+            {
+                "id": 125,
+                "name": "视频",
+                "desc": "视频",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LtLaP0LnLXK3PT13",
+        "name": "一起剪",
+        "icon": "https://hao7.qhimg.com/t01fec7eee2c1b1780c.png?size=200x200",
+        "desc": "短视频智能创作平台，人工智能自动生成脚本、图文成片。",
+        "aid": "LtLaP0LnLXK3PT",
+        "url": "https://www.yiqijian.com/",
+        "tags": [
+            {
+                "id": 125,
+                "name": "视频",
+                "desc": "视频",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 46,
+                "name": "创作",
+                "desc": "创作",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 56,
+                "name": "图文转视频",
+                "desc": "图文转视频",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LdXUQ0roLXC7Oj11",
+        "name": "鬼手剪辑",
+        "icon": "https://hao7.qhimg.com/t012802be91fc5be5ee.png?size=80x80",
+        "desc": "专业的视频翻译和去字幕软件。",
+        "aid": "LdXUQ0roLXC7Oj",
+        "url": "https://jollytoday.com/",
+        "tags": [
+            {
+                "id": 125,
+                "name": "视频",
+                "desc": "视频",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 119,
+                "name": "翻译",
+                "desc": "翻译",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 64,
+                "name": "字幕",
+                "desc": "字幕",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LNfXQkHmXnKBQD8",
+        "name": "来画",
+        "icon": "https://hao7.qhimg.com/t01b4017efd8456482d.jpg?size=640x640",
+        "desc": "动画和数字人智能生成平台",
+        "aid": "LNfXQkHmXnKBQD",
+        "url": "https://www.laihua.com/",
+        "tags": [
+            {
+                "id": 5,
+                "name": "AI产品",
+                "desc": "AI产品",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 3,
+                "name": "AIGC",
+                "desc": "AIGC",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    }
+]

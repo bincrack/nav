@@ -1,0 +1,342 @@
+[
+    {
+        "id": "LNXUPkTlLXSAPD0",
+        "name": "大饼AI变声",
+        "icon": "https://hao8.qhimg.com/t0198d5d60aa1ae06be.png?size=84x84",
+        "desc": "专业的在线变声工具，适用于游戏开黑、社交直播等场景。",
+        "aid": "LNXUPkTlLXSAPD",
+        "url": "https://dubbing.tech/",
+        "tags": [
+            {
+                "id": 142,
+                "name": "音频",
+                "desc": "音频",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 132,
+                "name": "语音合成",
+                "desc": "语音合成",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KtPcQUjrLXK6QD11",
+        "name": "网易云音乐·X Studio",
+        "icon": "https://hao8.qhimg.com/t01a7325eb1695e39e6.png?size=72x72",
+        "desc": "网易云音乐与小冰智能联合推出的免费AI歌手音乐创作软件。",
+        "aid": "KtPcQUjrLXK6QD",
+        "url": "https://xstudio.music.163.com/",
+        "tags": [
+            {
+                "id": 142,
+                "name": "音频",
+                "desc": "音频",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 141,
+                "name": "音乐",
+                "desc": "音乐",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 117,
+                "name": "网易",
+                "desc": "网易",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KAnZQEnpLXC8Qw5",
+        "name": "标贝悦读",
+        "icon": "https://hao7.qhimg.com/t015ee0640131d2cd4b.png?size=70x70",
+        "desc": "在线配音软件，一键文字转语音。",
+        "aid": "KAnZQEnpLXC8Qw",
+        "url": "https://yuedu.data-baker.com/",
+        "tags": [
+            {
+                "id": 142,
+                "name": "音频",
+                "desc": "音频",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 132,
+                "name": "语音合成",
+                "desc": "语音合成",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 125,
+                "name": "视频",
+                "desc": "视频",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "MtHVPUHqLXC7PD3",
+        "name": "呱呱有声",
+        "icon": "https://hao7.qhimg.com/t01b2f07f83773d5a66.png?size=100x100",
+        "desc": "长音频内容生产AIGC开放平台",
+        "aid": "MtHVPUHqLXC7PD",
+        "url": "https://www.gstudios.com.cn/",
+        "tags": [
+            {
+                "id": 142,
+                "name": "音频",
+                "desc": "音频",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KdbVQUnkLXG7Ow8",
+        "name": "音子AI",
+        "icon": "https://hao7.qhimg.com/t01550b4d04a0ceb20c.png?size=180x180",
+        "desc": "在线提取伴奏、分离人声、提取视频音乐。",
+        "aid": "KdbVQUnkLXG7Ow",
+        "url": "https://www.yinziai.com/",
+        "tags": [
+            {
+                "id": 142,
+                "name": "音频",
+                "desc": "音频",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KtfUP0PkXnKCPw2",
+        "name": "网易天音",
+        "icon": "https://hao8.qhimg.com/t015c41fcb70a4b6942.png?size=100x100",
+        "desc": "一站式AI音乐创作工具",
+        "aid": "KtfUP0PkXnKCPw",
+        "url": "https://tianyin.music.163.com/",
+        "tags": [
+            {
+                "id": 5,
+                "name": "AI产品",
+                "desc": "AI产品",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 141,
+                "name": "音乐",
+                "desc": "音乐",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KdHVRUnjX3O4OD1",
+        "name": "讯飞智作",
+        "icon": "https://hao7.qhimg.com/t010c94abfc43de3e81.png?size=100x100",
+        "desc": "AI转语音和配音工具",
+        "aid": "KdHVRUnjX3O4OD",
+        "url": "https://peiyin.xunfei.cn/",
+        "tags": [
+            {
+                "id": 4,
+                "name": "AI主播",
+                "desc": "AI主播",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 55,
+                "name": "合成配音",
+                "desc": "合成配音",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 111,
+                "name": "短视频配音",
+                "desc": "短视频配音",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "MdTdQkbkLXCDOT7",
+        "name": "团子AI",
+        "icon": "https://hao8.qhimg.com/t01bbe73a9388ff2f44.png?size=200x200",
+        "desc": "伴奏人声提取、任意乐器分离、无损升降掉。",
+        "aid": "MdTdQkbkLXCDOT",
+        "url": "https://tuanziai.com/",
+        "tags": [
+            {
+                "id": 142,
+                "name": "音频",
+                "desc": "音频",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LtfXPUHmLXS6OD12",
+        "name": "MotionSound",
+        "icon": "https://hao7.qhimg.com/t018738b2f8c5746e63.png?size=120x120",
+        "desc": "AI智能生成语音技术，简单易用的文本转语音工具。",
+        "aid": "LtfXPUHmLXS6OD",
+        "url": "https://motionsound.yoo-ai.com/",
+        "tags": [
+            {
+                "id": 142,
+                "name": "音频",
+                "desc": "音频",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 132,
+                "name": "语音合成",
+                "desc": "语音合成",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LdfURUnnLXC8QD6",
+        "name": "BGM猫",
+        "icon": "https://hao7.qhimg.com/t012465a6ed7ad8f905.png?size=100x100",
+        "desc": "一键生成视频、播客配乐和片头音乐。",
+        "aid": "LdfURUnnLXC8QD",
+        "url": "https://bgmcat.com/",
+        "tags": [
+            {
+                "id": 141,
+                "name": "音乐",
+                "desc": "音乐",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 142,
+                "name": "音频",
+                "desc": "音频",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LtHaQEbjLXC8OT4",
+        "name": "魔音工坊",
+        "icon": "https://hao8.qhimg.com/t012ecebba27546b3ae.png?size=140x140",
+        "desc": "先进的配音工具和高效多人协同创作工具。",
+        "aid": "LtHaQEbjLXC8OT",
+        "url": "https://www.moyin.com/",
+        "tags": [
+            {
+                "id": 142,
+                "name": "音频",
+                "desc": "音频",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 125,
+                "name": "视频",
+                "desc": "视频",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 50,
+                "name": "剪辑",
+                "desc": "剪辑",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 45,
+                "name": "写作助手",
+                "desc": "写作助手",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "LNTbQETkLXK6OT9",
+        "name": "歌词生成",
+        "icon": "https://hao8.qhimg.com/t012b2e7458adc43dfd.png?size=64x64",
+        "desc": "AI 自动生成歌词网站。",
+        "aid": "LNTbQETkLXK6OT",
+        "url": "https://wenxin.baidu.com/wenxin/pc/lyrics",
+        "tags": [
+            {
+                "id": 141,
+                "name": "音乐",
+                "desc": "音乐",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 101,
+                "name": "歌词",
+                "desc": "歌词",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 142,
+                "name": "音频",
+                "desc": "音频",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 109,
+                "name": "百度",
+                "desc": "百度",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    },
+    {
+        "id": "KArcPknpLXK6Qw10",
+        "name": "悦音配音",
+        "icon": "https://hao7.qhimg.com/t01fddd38c3a03f7e61.png?size=100x100",
+        "desc": "媲美真人的AI配音技术。",
+        "aid": "KArcPknpLXK6Qw",
+        "url": "https://yueyin.zhipianbang.com/",
+        "tags": [
+            {
+                "id": 142,
+                "name": "音频",
+                "desc": "音频",
+                "color": "#2db7f5",
+                "isInner": false
+            },
+            {
+                "id": 136,
+                "name": "配音",
+                "desc": "配音",
+                "color": "#2db7f5",
+                "isInner": false
+            }
+        ]
+    }
+]
